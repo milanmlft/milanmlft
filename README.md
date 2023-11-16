@@ -12,10 +12,10 @@ Centre](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-comp
 [![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight)](https://github.com/milanmlft/milanmlft#gh-dark-mode-only)
 [![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default)](https://github.com/milanmlft/milanmlft#gh-light-mode-only)
 
-This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
-
 #### 👷 Explore My Current Projects
 
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (today)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
   (today)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
@@ -24,8 +24,6 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
   (3 days ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
   (1 week ago)
-- [quarto-dev/quarto-web](https://github.com/quarto-dev/quarto-web) - Quarto website
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
