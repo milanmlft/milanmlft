@@ -22,7 +22,7 @@ jobs:
         # yamllint disable-line rule:line-length
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.README_SCRIBE }}
         with:
           template: templates/README.md.tpl
           writeTo: README.md
