@@ -17,24 +17,24 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
-  (today)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (today)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (today)
-- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 day ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (1 day ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 day ago)
+- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
+  (2 days ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add devcontainer](https://github.com/LearnToDiscover/sandpaper/pull/43) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (today)
+  (1 day ago)
 - [Use default Pull settings](https://github.com/milanmlft/sandpaper/pull/6) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
-  (today)
+  (1 day ago)
 - [Need to `#include &lt;string&gt;` in automaton header](https://github.com/mmcleod89/Automata_Example/pull/1) on [mmcleod89/Automata_Example](https://github.com/mmcleod89/Automata_Example)
-  (6 days ago)
+  (1 week ago)
 - [Test PR preview](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/13) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
   (1 week ago)
 - [Add `.Brewfile` update script](https://github.com/milanmlft/dotfiles/pull/1) on [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles)
@@ -43,12 +43,12 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### ⭐ Recent Stars
 
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (today)
+  (1 day ago)
 - [UCL/atlasview](https://github.com/UCL/atlasview) - Application to view and comment on Disease Atlas results
-  (today)
+  (1 day ago)
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-  (today)
+  (1 day ago)
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-  (today)
+  (1 day ago)
 - [carpentries/varnish](https://github.com/carpentries/varnish) - Template for pkgdown site
-  (today)
+  (1 day ago)
