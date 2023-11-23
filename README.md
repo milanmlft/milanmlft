@@ -16,39 +16,39 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
+- [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (1 day ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 days ago)
-- [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
-  (6 days ago)
+  (1 day ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (6 days ago)
+  (1 week ago)
+- [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
+  (1 week ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 week ago)
-- [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/22) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+- [Set up automated fork syncing](https://github.com/UCL/ClinicianCoders/pull/7) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 day ago)
+- [Fix typos in developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/23) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (1 day ago)
+- [Add developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/22) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (2 days ago)
 - [Add devcontainer](https://github.com/LearnToDiscover/sandpaper/pull/43) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (6 days ago)
-- [Use default Pull settings](https://github.com/milanmlft/sandpaper/pull/6) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
-  (6 days ago)
-- [Need to `#include &lt;string&gt;` in automaton header](https://github.com/mmcleod89/Automata_Example/pull/1) on [mmcleod89/Automata_Example](https://github.com/mmcleod89/Automata_Example)
   (1 week ago)
-- [Test PR preview](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/13) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+- [Use default Pull settings](https://github.com/milanmlft/sandpaper/pull/6) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+  (1 day ago)
+- [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
+  (1 day ago)
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (6 days ago)
+  (1 week ago)
 - [UCL/atlasview](https://github.com/UCL/atlasview) - Application to view and comment on Disease Atlas results
-  (6 days ago)
+  (1 week ago)
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-  (6 days ago)
-- [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
-  (6 days ago)
-- [carpentries/varnish](https://github.com/carpentries/varnish) - Template for pkgdown site
-  (6 days ago)
+  (1 week ago)
