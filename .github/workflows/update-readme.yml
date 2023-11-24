@@ -25,7 +25,7 @@ jobs:
           >> $GITHUB_OUTPUT
           
       - name: Autogenerate README
-        if: ${{ steps.commit-count.outputs.count == 0 }}
+        if: ${{ github.event_name == 'push' }} || ${{ steps.commit-count.outputs.count == 0 }}
         # yamllint disable-line rule:line-length
         uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948 # v0.1
         env:
@@ -35,7 +35,7 @@ jobs:
           writeTo: ./README.md
 
       - name: Push README to main
-        if: ${{ steps.commit-count.outputs.count == 0 }}
+        if: ${{ github.event_name == 'push' }} || ${{ steps.commit-count.outputs.count == 0 }}
         # yamllint disable-line rule:line-length
         uses: stefanzweifel/git-auto-commit-action@8756aa072ef5b4a080af5dc8fef36c5d586e521d # v5
         env:
