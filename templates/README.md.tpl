@@ -12,7 +12,9 @@ Centre](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-comp
 [![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight)](https://github.com/milanmlft/milanmlft#gh-dark-mode-only)
 [![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default)](https://github.com/milanmlft/milanmlft#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs Dark](https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/milanmlft/milanmlft#gh-dark-mode-only)
+[![Top Langs Ligth](https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=default)](https://github.com/milanmlft/milanmlft#gh-light-mode-only)
+
 This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
 
 #### 👷 Explore My Current Projects
