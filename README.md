@@ -17,9 +17,9 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
@@ -30,11 +30,11 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 🔨 My Recent Pull Requests
 
 - [Set up automated fork syncing](https://github.com/UCL/ClinicianCoders/pull/7) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 day ago)
-- [Fix typos in developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/23) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
-  (1 day ago)
-- [Add developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/22) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
   (2 days ago)
+- [Fix typos in developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/23) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (2 days ago)
+- [Add developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/22) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (3 days ago)
 - [Add devcontainer](https://github.com/LearnToDiscover/sandpaper/pull/43) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
   (1 week ago)
 - [Use default Pull settings](https://github.com/milanmlft/sandpaper/pull/6) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
@@ -42,13 +42,13 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### ⭐ Recent Stars
 
-- [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
+- [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
   (1 day ago)
-- [carpentries/instructor-training](https://github.com/carpentries/instructor-training) - Instructor Training
+- [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
   (1 day ago)
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-  (1 week ago)
-- [UCL/atlasview](https://github.com/UCL/atlasview) - Application to view and comment on Disease Atlas results
-  (1 week ago)
-- [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-  (1 week ago)
+- [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
+  (1 day ago)
+- [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
+  (1 day ago)
+- [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
+  (1 day ago)
