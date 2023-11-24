@@ -12,33 +12,34 @@ Centre](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-comp
 [![GitHub Stats Dark](https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight)](https://github.com/milanmlft/milanmlft#gh-dark-mode-only)
 [![GitHub Stats Light](https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default)](https://github.com/milanmlft/milanmlft#gh-light-mode-only)
 
+[![Top Langs](https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft)](https://github.com/anuraghazra/github-readme-stats)
 This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
 
 #### 👷 Explore My Current Projects
 
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (today)
 - [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
   (2 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (2 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
   (1 week ago)
-- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (today)
+- [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (today)
+- [Week 5 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/138) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (today)
 - [Set up automated fork syncing](https://github.com/UCL/ClinicianCoders/pull/7) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (2 days ago)
 - [Fix typos in developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/23) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
   (2 days ago)
-- [Add developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/22) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
-  (3 days ago)
-- [Add devcontainer](https://github.com/LearnToDiscover/sandpaper/pull/43) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 week ago)
-- [Use default Pull settings](https://github.com/milanmlft/sandpaper/pull/6) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
-  (1 week ago)
 
 #### ⭐ Recent Stars
 
