@@ -19,12 +19,12 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (today)
-- [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
-  (2 days ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (2 days ago)
+  (1 day ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 day ago)
+- [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (5 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
@@ -33,25 +33,25 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 🔨 My Recent Pull Requests
 
 - [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (today)
+  (3 days ago)
 - [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (today)
+  (3 days ago)
 - [Week 5 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/138) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (today)
+  (3 days ago)
 - [Set up automated fork syncing](https://github.com/UCL/ClinicianCoders/pull/7) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 days ago)
+  (5 days ago)
 - [Fix typos in developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/23) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
-  (2 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (1 day ago)
+  (4 days ago)
 - [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
-  (1 day ago)
+  (4 days ago)
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
-  (1 day ago)
+  (4 days ago)
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
-  (1 day ago)
+  (4 days ago)
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
-  (1 day ago)
+  (4 days ago)
