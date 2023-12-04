@@ -30,14 +30,14 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
+  (4 days ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (5 days ago)
+  (1 week ago)
 - [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
   (1 week ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (2 weeks ago)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
+  (2 weeks ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
