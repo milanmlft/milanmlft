@@ -30,7 +30,7 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (1 day ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 week ago)
 - [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
@@ -42,6 +42,8 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/9) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (today)
 - [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
   (1 week ago)
 - [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
@@ -49,8 +51,6 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 - [Week 5 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/138) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
   (1 week ago)
 - [Set up automated fork syncing](https://github.com/UCL/ClinicianCoders/pull/7) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
-- [Fix typos in developer instructions](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/23) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
   (1 week ago)
 
 #### ⭐ Recent Stars
