@@ -30,11 +30,11 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (1 day ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 day ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (2 days ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (2 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 week ago)
 - [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
@@ -43,9 +43,9 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 🔨 My Recent Pull Requests
 
 - [Add linting](https://github.com/milanmlft/jupytextR/pull/7) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (1 day ago)
+  (2 days ago)
 - [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/9) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 day ago)
+  (2 days ago)
 - [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
   (1 week ago)
 - [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
@@ -56,12 +56,12 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### ⭐ Recent Stars
 
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (1 week ago)
+  (2 weeks ago)
 - [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
-  (1 week ago)
+  (2 weeks ago)
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
-  (1 week ago)
+  (2 weeks ago)
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
-  (1 week ago)
+  (2 weeks ago)
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
-  (1 week ago)
+  (2 weeks ago)
