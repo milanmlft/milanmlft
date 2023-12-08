@@ -29,11 +29,11 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (2 days ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 day ago)
+- [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
+  (3 days ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (3 days ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 week ago)
@@ -43,15 +43,15 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 🔨 My Recent Pull Requests
 
 - [Add linting](https://github.com/milanmlft/jupytextR/pull/7) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (2 days ago)
+  (3 days ago)
 - [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/9) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 days ago)
+  (3 days ago)
 - [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (1 week ago)
+  (2 weeks ago)
 - [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (1 week ago)
+  (2 weeks ago)
 - [Week 5 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/138) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
