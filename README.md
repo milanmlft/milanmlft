@@ -30,24 +30,24 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
-  (3 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (4 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (5 days ago)
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Need to `#include &lt;ostream&gt;`](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises/pull/1) on [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
-  (3 days ago)
+  (4 days ago)
 - [Add linting](https://github.com/milanmlft/jupytextR/pull/7) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (6 days ago)
+  (1 week ago)
 - [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/9) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
   (2 weeks ago)
 - [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
