@@ -29,39 +29,39 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
-  (4 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (5 days ago)
+  (3 days ago)
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
+  (5 days ago)
+- [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
   (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 week ago)
-- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (2 weeks ago)
+- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
+  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Week 8 fixes](https://github.com/UCL/research-computing-with-cpp/pull/142) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (6 days ago)
+- [Week 7 fixes](https://github.com/UCL/research-computing-with-cpp/pull/141) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (6 days ago)
 - [Need to `#include &lt;ostream&gt;`](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises/pull/1) on [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
-  (4 days ago)
+  (1 week ago)
 - [Add linting](https://github.com/milanmlft/jupytextR/pull/7) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (1 week ago)
-- [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/9) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
-- [Run `typos` checker](https://github.com/UCL/research-computing-with-cpp/pull/140) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
   (2 weeks ago)
-- [Week 3 typo fixes](https://github.com/UCL/research-computing-with-cpp/pull/139) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+- [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/9) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (2 weeks ago)
+  (4 weeks ago)
 - [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
-  (2 weeks ago)
+  (4 weeks ago)
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
-  (2 weeks ago)
+  (4 weeks ago)
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
-  (2 weeks ago)
+  (4 weeks ago)
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
-  (2 weeks ago)
+  (4 weeks ago)
