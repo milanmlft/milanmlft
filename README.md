@@ -30,15 +30,15 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (1 week ago)
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (6 days ago)
+  (1 week ago)
 - [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
   (2 weeks ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (2 weeks ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -56,12 +56,12 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### ⭐ Recent Stars
 
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (4 weeks ago)
+  (1 month ago)
 - [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
-  (4 weeks ago)
+  (1 month ago)
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
-  (4 weeks ago)
+  (1 month ago)
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
-  (4 weeks ago)
+  (1 month ago)
 - [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
-  (4 weeks ago)
+  (1 month ago)
