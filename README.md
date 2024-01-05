@@ -30,26 +30,26 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
-- [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
+- [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp) - UCL-ARC *C&#43;&#43; for Research* course
   (3 weeks ago)
+- [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
+  (4 weeks ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 month ago)
-- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update 13 packages](https://github.com/UCL/ClinicianCoders/pull/10) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 days ago)
+  (3 days ago)
 - [Week 8 fixes](https://github.com/UCL/research-computing-with-cpp/pull/142) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (2 weeks ago)
-- [Week 7 fixes](https://github.com/UCL/research-computing-with-cpp/pull/141) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (2 weeks ago)
-- [Need to `#include &lt;ostream&gt;`](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises/pull/1) on [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
   (3 weeks ago)
+- [Week 7 fixes](https://github.com/UCL/research-computing-with-cpp/pull/141) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (3 weeks ago)
+- [Need to `#include &lt;ostream&gt;`](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises/pull/1) on [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
+  (4 weeks ago)
 - [Add linting](https://github.com/milanmlft/jupytextR/pull/7) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 month ago)
 
