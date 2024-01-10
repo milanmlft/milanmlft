@@ -30,9 +30,9 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (5 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (6 days ago)
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
   (1 week ago)
 - [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp) - UCL-ARC *C&#43;&#43; for Research* course
