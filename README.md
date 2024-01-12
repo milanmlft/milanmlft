@@ -29,19 +29,21 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (1 day ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (1 week ago)
+  (2 weeks ago)
 - [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp) - UCL-ARC *C&#43;&#43; for Research* course
-  (3 weeks ago)
+  (4 weeks ago)
 - [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix ruff rule PLW2901 &#34;redefine loop name&#34;](https://github.com/UCLH-Foundry/PIXL/pull/216) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Update 13 packages](https://github.com/UCL/ClinicianCoders/pull/10) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 week ago)
 - [Refactor message serialisation and deserialisation](https://github.com/UCLH-Foundry/PIXL/pull/197) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
@@ -49,9 +51,7 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 - [Change default line length to 100](https://github.com/UCLH-Foundry/PIXL/pull/196) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (3 weeks ago)
 - [Week 8 fixes](https://github.com/UCL/research-computing-with-cpp/pull/142) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (3 weeks ago)
-- [Week 7 fixes](https://github.com/UCL/research-computing-with-cpp/pull/141) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### ⭐ Recent Stars
 
