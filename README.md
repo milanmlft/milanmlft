@@ -29,32 +29,34 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
+- [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project) - A minimal cmake project template
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (4 days ago)
 - [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
   (2 weeks ago)
 - [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp) - UCL-ARC *C&#43;&#43; for Research* course
-  (4 weeks ago)
-- [UCL-PHAS0100-22-23/week_7_cpp_exercises](https://github.com/UCL-PHAS0100-22-23/week_7_cpp_exercises)
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add CI](https://github.com/milanmlft/minimal-cmake-project/pull/1) on [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project)
+  (2 days ago)
+- [Fix broken link to CMake basics](https://github.com/UCL/research-computing-with-cpp/pull/144) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
+  (3 days ago)
 - [Fix ruff rule PLW2901 &#34;redefine loop name&#34;](https://github.com/UCLH-Foundry/PIXL/pull/216) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
+  (4 days ago)
 - [Update 13 packages](https://github.com/UCL/ClinicianCoders/pull/10) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 week ago)
 - [Refactor message serialisation and deserialisation](https://github.com/UCLH-Foundry/PIXL/pull/197) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (3 weeks ago)
-- [Change default line length to 100](https://github.com/UCLH-Foundry/PIXL/pull/196) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (3 weeks ago)
-- [Week 8 fixes](https://github.com/UCL/research-computing-with-cpp/pull/142) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (4 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
+  (2 days ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
   (1 month ago)
 - [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
@@ -62,6 +64,4 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 - [r-lib/usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
   (1 month ago)
 - [r-lib/testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
-  (1 month ago)
-- [r-lib/pkgdown](https://github.com/r-lib/pkgdown) - Generate static html documentation for an R package
   (1 month ago)
