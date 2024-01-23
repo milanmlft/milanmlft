@@ -30,7 +30,7 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project) - A minimal cmake project template
@@ -43,9 +43,9 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 🔨 My Recent Pull Requests
 
 - [Test the original FTP server again](https://github.com/UCLH-Foundry/PIXL/pull/228) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
-- [Upload DICOM images with FTPS](https://github.com/UCLH-Foundry/PIXL/pull/226) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (6 days ago)
+- [Upload DICOM images with FTPS](https://github.com/UCLH-Foundry/PIXL/pull/226) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 week ago)
 - [Add CI](https://github.com/milanmlft/minimal-cmake-project/pull/1) on [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project)
   (1 week ago)
 - [Fix broken link to CMake basics](https://github.com/UCL/research-computing-with-cpp/pull/144) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
