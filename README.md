@@ -30,15 +30,15 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (today)
+  (1 day ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (1 day ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (2 days ago)
+  (3 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project) - A minimal cmake project template
   (1 week ago)
-- [milanmlft/AdventOfCode2023](https://github.com/milanmlft/AdventOfCode2023) - Advent of Code 2023
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -49,16 +49,16 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 - [Add CI](https://github.com/milanmlft/minimal-cmake-project/pull/1) on [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project)
   (1 week ago)
 - [Fix broken link to CMake basics](https://github.com/UCL/research-computing-with-cpp/pull/144) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (1 week ago)
+  (2 weeks ago)
 - [Fix ruff rule PLW2901 &#34;redefine loop name&#34;](https://github.com/UCLH-Foundry/PIXL/pull/216) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (today)
+  (1 day ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (2 days ago)
+  (3 days ago)
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
   (1 week ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
