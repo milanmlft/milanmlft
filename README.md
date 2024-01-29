@@ -29,16 +29,16 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (1 day ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (2 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (3 days ago)
+  (6 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 week ago)
+  (2 weeks ago)
 - [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project) - A minimal cmake project template
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -47,7 +47,7 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 - [Upload DICOM images with FTPS](https://github.com/UCLH-Foundry/PIXL/pull/226) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Add CI](https://github.com/milanmlft/minimal-cmake-project/pull/1) on [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project)
-  (1 week ago)
+  (2 weeks ago)
 - [Fix broken link to CMake basics](https://github.com/UCL/research-computing-with-cpp/pull/144) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
   (2 weeks ago)
 - [Fix ruff rule PLW2901 &#34;redefine loop name&#34;](https://github.com/UCLH-Foundry/PIXL/pull/216) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
@@ -56,11 +56,11 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 #### ⭐ Recent Stars
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
+  (4 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (3 days ago)
+  (6 days ago)
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
-  (1 week ago)
+  (2 weeks ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
   (2 months ago)
 - [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
