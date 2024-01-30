@@ -29,12 +29,12 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (1 day ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 day ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (2 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (2 weeks ago)
 - [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project) - A minimal cmake project template
@@ -42,23 +42,23 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### 🔨 My Recent Pull Requests
 
-- [Test the original FTP server again](https://github.com/UCLH-Foundry/PIXL/pull/228) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Upload DICOM images with FTPS](https://github.com/UCLH-Foundry/PIXL/pull/226) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Add CI](https://github.com/milanmlft/minimal-cmake-project/pull/1) on [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project)
-  (2 weeks ago)
-- [Fix broken link to CMake basics](https://github.com/UCL/research-computing-with-cpp/pull/144) on [UCL/research-computing-with-cpp](https://github.com/UCL/research-computing-with-cpp)
-  (2 weeks ago)
-- [Fix ruff rule PLW2901 &#34;redefine loop name&#34;](https://github.com/UCLH-Foundry/PIXL/pull/216) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (2 weeks ago)
+- [Update documentation for new developers](https://github.com/UCLH-Foundry/PIXL/pull/256) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
+- [Remove the `run-all-tests` script](https://github.com/UCLH-Foundry/PIXL/pull/252) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
+- [Fix docstring of `ImagingStudy` class](https://github.com/UCLH-Foundry/PIXL/pull/251) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
+- [Update Imaging API README, part 2](https://github.com/UCLH-Foundry/PIXL/pull/250) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
+- [Update Imaging API README](https://github.com/UCLH-Foundry/PIXL/pull/248) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 
 #### ⭐ Recent Stars
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
+  (5 days ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
-  (6 days ago)
+  (1 week ago)
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
   (2 weeks ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
