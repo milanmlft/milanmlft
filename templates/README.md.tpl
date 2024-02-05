@@ -9,23 +9,17 @@ Centre](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-comp
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge&style=flat)](https://scholar.google.com/citations?user=LwW40HQAAAAJ&hl=en)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&style=flat)](http://www.linkedin.com/in/milan-malfait)
 
-<!-- Dark mode github stats + languages -->
+<!-- Dark mode github stats -->
 <a href="https://github.com/milanmlft/milanmlft#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/milanmlft/milanmlft#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=tokyonight" />
-</a>
 
-<!-- Light mode github stats + languages-->
+<!-- Light mode github stat -->
 <a href="https://github.com/milanmlft/milanmlft#gh-light-mode-only">
   <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/milanmlft/milanmlft#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=default" />
-</a>
 
-This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
+This profile page is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
 
 #### 👷 Explore My Current Projects
 {{range recentContributions 5}}
