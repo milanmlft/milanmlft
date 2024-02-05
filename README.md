@@ -13,32 +13,26 @@ Centre](https://www.ucl.ac.uk/advanced-research-computing/advanced-research-comp
 <a href="https://github.com/milanmlft/milanmlft#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/milanmlft/milanmlft#gh-dark-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=tokyonight" />
-</a>
 
 
 <a href="https://github.com/milanmlft/milanmlft#gh-light-mode-only">
   <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api?username=milanmlft&disable_animations=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&show_icons=true&theme=default" />
 </a>
-<a href="https://github.com/milanmlft/milanmlft#gh-light-mode-only">
-  <img height=200 align="center" src="https://github-readme-stats-paddyroddy.vercel.app/api/top-langs/?username=milanmlft&hide=jupyter%20notebook,html&langs_count=10&layout=compact&theme=default" />
-</a>
 
-This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
+This profile page is _heavily_ inspired by @paddyroddy's [profile](https://github.com/paddyroddy/paddyroddy)
 
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (3 days ago)
+  (today)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (today)
 - [milanmlft/minimal-cmake-project](https://github.com/milanmlft/minimal-cmake-project) - A minimal cmake project template
   (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (6 days ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (1 week ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
@@ -55,6 +49,8 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 
 #### ⭐ Recent Stars
 
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+  (today)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 week ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
@@ -62,6 +58,4 @@ This repo is _heavily_ inspired by @paddyroddy's [profile](https://github.com/pa
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
   (3 weeks ago)
 - [r-lib/actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
-  (2 months ago)
-- [r-lib/pak](https://github.com/r-lib/pak) - A fresh approach to package installation
   (2 months ago)
