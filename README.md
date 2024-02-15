@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) - Multilingual version of the Bioconductor Code of Conduct
@@ -36,25 +36,25 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Add multi-project config design diagram](https://github.com/UCLH-Foundry/PIXL/pull/302) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Fix renv package cache](https://github.com/smcclatchy/spatial-transcriptomics/pull/1) on [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
-  (4 days ago)
-- [Add statistics episode](https://github.com/UCL/ClinicianCoders/pull/31) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (5 days ago)
-- [Replace Docker FTPS server with `pytest` plugin fixture in `pixl_core` tests](https://github.com/UCLH-Foundry/PIXL/pull/288) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [Add statistics episode](https://github.com/UCL/ClinicianCoders/pull/31) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (6 days ago)
-- [Use `PROTOCOL_TLS_CLIENT` in favour of `PROTOCOL_TLS`](https://github.com/oz123/pytest-localftpserver/pull/304) on [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver)
+- [Replace Docker FTPS server with `pytest` plugin fixture in `pixl_core` tests](https://github.com/UCLH-Foundry/PIXL/pull/288) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
-- [Update Dutch translation to v1.3.0](https://github.com/Bioconductor/bioc_coc_multilingual/pull/82) on [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual)
+- [Use `PROTOCOL_TLS_CLIENT` in favour of `PROTOCOL_TLS`](https://github.com/oz123/pytest-localftpserver/pull/304) on [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders) - R for Reproducible Scientific Analysis - adapted for ClinicianCoders
-  (2 days ago)
+  (3 days ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
   (1 week ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (2 weeks ago)
+  (3 weeks ago)
 - [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (3 weeks ago)
 - [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer
