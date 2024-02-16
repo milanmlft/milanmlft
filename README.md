@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 week ago)
+  (1 day ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) - Multilingual version of the Bioconductor Code of Conduct
@@ -36,21 +36,21 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
-- [Add multi-project config design diagram](https://github.com/UCLH-Foundry/PIXL/pull/302) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [Experimenting with Pkl for the config template](https://github.com/UCLH-Foundry/PIXL/pull/304) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 day ago)
+- [Remove plyr episode and update episode numbering](https://github.com/swcarpentry/r-novice-gapminder/pull/885) on [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder)
+  (1 day ago)
+- [Add multi-project config design diagram](https://github.com/UCLH-Foundry/PIXL/pull/302) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (2 days ago)
 - [Fix renv package cache](https://github.com/smcclatchy/spatial-transcriptomics/pull/1) on [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
-  (5 days ago)
-- [Add statistics episode](https://github.com/UCL/ClinicianCoders/pull/31) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (6 days ago)
-- [Replace Docker FTPS server with `pytest` plugin fixture in `pixl_core` tests](https://github.com/UCLH-Foundry/PIXL/pull/288) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Use `PROTOCOL_TLS_CLIENT` in favour of `PROTOCOL_TLS`](https://github.com/oz123/pytest-localftpserver/pull/304) on [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver)
+- [Add statistics episode](https://github.com/UCL/ClinicianCoders/pull/31) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders) - R for Reproducible Scientific Analysis - adapted for ClinicianCoders
-  (3 days ago)
+  (4 days ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
   (1 week ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
