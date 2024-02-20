@@ -26,36 +26,36 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 day ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
+  (5 days ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
   (1 week ago)
 - [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) - Multilingual version of the Bioconductor Code of Conduct
-  (1 week ago)
+  (2 weeks ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Support configuration for multiple projects](https://github.com/UCLH-Foundry/PIXL/pull/309) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Experimenting with Pkl for the config template](https://github.com/UCLH-Foundry/PIXL/pull/304) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (4 days ago)
-- [Remove plyr episode and update episode numbering](https://github.com/swcarpentry/r-novice-gapminder/pull/885) on [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder)
-  (4 days ago)
-- [Add multi-project config design diagram](https://github.com/UCLH-Foundry/PIXL/pull/302) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (5 days ago)
+- [Remove plyr episode and update episode numbering](https://github.com/swcarpentry/r-novice-gapminder/pull/885) on [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder)
+  (5 days ago)
+- [Add multi-project config design diagram](https://github.com/UCLH-Foundry/PIXL/pull/302) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (6 days ago)
 - [Fix renv package cache](https://github.com/smcclatchy/spatial-transcriptomics/pull/1) on [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
-  (1 week ago)
-- [Add statistics episode](https://github.com/UCL/ClinicianCoders/pull/31) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+  (1 day ago)
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-  (today)
+  (1 day ago)
 - [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders) - R for Reproducible Scientific Analysis - adapted for ClinicianCoders
   (1 week ago)
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
   (2 weeks ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (3 weeks ago)
-- [UCL-ARC/python-tooling](https://github.com/UCL-ARC/python-tooling) - Python package template for new research software projects
   (3 weeks ago)
