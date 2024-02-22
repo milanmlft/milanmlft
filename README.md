@@ -24,9 +24,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
+  (2 days ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
   (1 week ago)
 - [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) - Multilingual version of the Bioconductor Code of Conduct
@@ -37,25 +37,25 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Get rid of `pixl_config.yml`](https://github.com/UCLH-Foundry/PIXL/pull/311) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
-- [Support configuration for multiple projects](https://github.com/UCLH-Foundry/PIXL/pull/309) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 days ago)
+- [Support configuration for multiple projects](https://github.com/UCLH-Foundry/PIXL/pull/309) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (3 days ago)
 - [Experimenting with Pkl for the config template](https://github.com/UCLH-Foundry/PIXL/pull/304) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
+  (1 week ago)
 - [Remove plyr episode and update episode numbering](https://github.com/swcarpentry/r-novice-gapminder/pull/885) on [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder)
-  (6 days ago)
+  (1 week ago)
 - [Add multi-project config design diagram](https://github.com/UCLH-Foundry/PIXL/pull/302) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
+  (1 day ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
-  (1 day ago)
+  (2 days ago)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-  (1 day ago)
+  (2 days ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
-  (2 days ago)
+  (3 days ago)
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
-  (2 days ago)
-- [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders) - R for Reproducible Scientific Analysis - adapted for ClinicianCoders
-  (1 week ago)
+  (3 days ago)
