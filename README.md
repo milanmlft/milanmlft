@@ -24,11 +24,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
   (2 days ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (3 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (5 days ago)
+  (6 days ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
   (2 weeks ago)
 - [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) - Multilingual version of the Bioconductor Code of Conduct
@@ -37,9 +37,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Fix the copyright heading linter](https://github.com/UCLH-Foundry/PIXL/pull/319) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
+  (6 days ago)
 - [Add copyright headers check to pre-commit](https://github.com/UCLH-Foundry/PIXL/pull/317) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
+  (6 days ago)
 - [Get rid of `pixl_config.yml`](https://github.com/UCLH-Foundry/PIXL/pull/311) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Support configuration for multiple projects](https://github.com/UCLH-Foundry/PIXL/pull/309) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
@@ -50,9 +50,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-  (1 day ago)
+  (2 days ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
-  (6 days ago)
+  (1 week ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
   (1 week ago)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
