@@ -24,9 +24,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (3 days ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
   (4 days ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (5 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
@@ -49,13 +49,13 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### ⭐ Recent Stars
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+  (1 day ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-  (3 days ago)
+  (4 days ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
   (1 week ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
   (1 week ago)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-  (1 week ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
   (1 week ago)
