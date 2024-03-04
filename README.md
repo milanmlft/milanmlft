@@ -23,14 +23,14 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (5 days ago)
+  (1 day ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Bioconductor/bioc_coc_multilingual](https://github.com/Bioconductor/bioc_coc_multilingual) - Multilingual version of the Bioconductor Code of Conduct
   (3 weeks ago)
 
@@ -43,16 +43,16 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [Get rid of `pixl_config.yml`](https://github.com/UCLH-Foundry/PIXL/pull/311) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Support configuration for multiple projects](https://github.com/UCLH-Foundry/PIXL/pull/309) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
+  (2 weeks ago)
 - [Experimenting with Pkl for the config template](https://github.com/UCLH-Foundry/PIXL/pull/304) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (1 day ago)
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   (4 days ago)
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+  (1 week ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
   (1 week ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
