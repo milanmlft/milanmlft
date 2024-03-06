@@ -23,38 +23,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 day ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 day ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (2 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (3 days ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
   (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add episode 1](https://github.com/LearnToDiscover/case-study-antibodies/pull/2) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
+  (1 day ago)
+- [Avoid duplicate recordings of reticulate as a dependency](https://github.com/LearnToDiscover/sandpaper/pull/57) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (1 day ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/33) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (today)
+  (1 day ago)
 - [Update 9 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/1) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (today)
+  (1 day ago)
 - [Update to Python 3.12](https://github.com/UCLH-Foundry/PIXL/pull/337) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
-- [Move export tests to PIXL core](https://github.com/UCLH-Foundry/PIXL/pull/333) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
-- [Fix the copyright heading linter](https://github.com/UCLH-Foundry/PIXL/pull/319) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (5 days ago)
+  (6 days ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   (1 week ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
-  (1 week ago)
+  (2 weeks ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
   (2 weeks ago)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
