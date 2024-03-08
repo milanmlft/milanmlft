@@ -23,28 +23,28 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 day ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (1 day ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (2 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (4 days ago)
+  (5 days ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
   (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix unit tests](https://github.com/LearnToDiscover/sandpaper/pull/61) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (1 day ago)
+- [Update to latest orthanc containers with Python 3.11](https://github.com/UCLH-Foundry/PIXL/pull/339) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Add episode 1](https://github.com/LearnToDiscover/case-study-antibodies/pull/2) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (2 days ago)
+  (3 days ago)
 - [Avoid duplicate recordings of reticulate as a dependency](https://github.com/LearnToDiscover/sandpaper/pull/57) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (2 days ago)
+  (3 days ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/33) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 days ago)
-- [Update 9 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/1) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (2 days ago)
-- [Update to Python 3.12](https://github.com/UCLH-Foundry/PIXL/pull/337) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (3 days ago)
 
 #### ⭐ Recent Stars
