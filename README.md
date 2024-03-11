@@ -23,36 +23,36 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (2 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (4 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (5 days ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (1 week ago)
 - [smcclatchy/spatial-transcriptomics](https://github.com/smcclatchy/spatial-transcriptomics)
-  (3 weeks ago)
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix unit tests](https://github.com/LearnToDiscover/sandpaper/pull/61) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 day ago)
+  (4 days ago)
 - [Update to latest orthanc containers with Python 3.11](https://github.com/UCLH-Foundry/PIXL/pull/339) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
+  (4 days ago)
 - [Add episode 1](https://github.com/LearnToDiscover/case-study-antibodies/pull/2) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (3 days ago)
+  (6 days ago)
 - [Avoid duplicate recordings of reticulate as a dependency](https://github.com/LearnToDiscover/sandpaper/pull/57) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (3 days ago)
+  (6 days ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/33) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
   (1 week ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-  (1 week ago)
+  (2 weeks ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
   (2 weeks ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
