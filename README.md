@@ -23,23 +23,23 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (1 day ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 day ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (2 days ago)
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
+  (2 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix unit tests](https://github.com/LearnToDiscover/sandpaper/pull/61) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (6 days ago)
+  (1 week ago)
 - [Update to latest orthanc containers with Python 3.11](https://github.com/UCLH-Foundry/PIXL/pull/339) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
+  (1 week ago)
 - [Add episode 1](https://github.com/LearnToDiscover/case-study-antibodies/pull/2) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
   (1 week ago)
 - [Avoid duplicate recordings of reticulate as a dependency](https://github.com/LearnToDiscover/sandpaper/pull/57) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
@@ -50,7 +50,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (1 week ago)
+  (2 weeks ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   (2 weeks ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
