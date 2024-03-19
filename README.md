@@ -23,28 +23,28 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 days ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (6 days ago)
-- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (6 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (1 day ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
+  (1 week ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (1 week ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix macOS GHA workflow](https://github.com/milanmlft/jupytextR/pull/17) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+  (1 day ago)
+- [Fix type check for ipynb content](https://github.com/milanmlft/jupytextR/pull/16) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+  (1 day ago)
+- [Fix ruff in `precommit`](https://github.com/UCLH-Foundry/PIXL/pull/347) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Fix unit tests](https://github.com/LearnToDiscover/sandpaper/pull/61) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
   (1 week ago)
 - [Update to latest orthanc containers with Python 3.11](https://github.com/UCLH-Foundry/PIXL/pull/339) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Add episode 1](https://github.com/LearnToDiscover/case-study-antibodies/pull/2) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (1 week ago)
-- [Avoid duplicate recordings of reticulate as a dependency](https://github.com/LearnToDiscover/sandpaper/pull/57) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 week ago)
-- [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/33) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 week ago)
 
 #### ⭐ Recent Stars
@@ -56,6 +56,6 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
   (3 weeks ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
-  (3 weeks ago)
+  (4 weeks ago)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-  (3 weeks ago)
+  (4 weeks ago)
