@@ -24,9 +24,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
+  (4 days ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 week ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
@@ -36,15 +36,15 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Parametrise `generate_dicom_dataset()`](https://github.com/UCLH-Foundry/PIXL/pull/348) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Fix macOS GHA workflow](https://github.com/milanmlft/jupytextR/pull/17) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (1 day ago)
+  (2 days ago)
 - [Fix type check for ipynb content](https://github.com/milanmlft/jupytextR/pull/16) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (1 day ago)
+  (2 days ago)
 - [Fix ruff in `precommit`](https://github.com/UCLH-Foundry/PIXL/pull/347) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
+  (2 days ago)
 - [Fix unit tests](https://github.com/LearnToDiscover/sandpaper/pull/61) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 week ago)
-- [Update to latest orthanc containers with Python 3.11](https://github.com/UCLH-Foundry/PIXL/pull/339) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
 #### ⭐ Recent Stars
@@ -54,7 +54,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   (3 weeks ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
-  (3 weeks ago)
+  (4 weeks ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
   (4 weeks ago)
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
