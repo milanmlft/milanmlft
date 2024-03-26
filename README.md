@@ -24,27 +24,27 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
+  (1 day ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 week ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (1 week ago)
+  (2 weeks ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (2 weeks ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Allow customisable tag operations per MR model](https://github.com/UCLH-Foundry/PIXL/pull/354) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (4 days ago)
+  (5 days ago)
 - [Allow merging multiple tag schemas](https://github.com/UCLH-Foundry/PIXL/pull/352) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (4 days ago)
+  (5 days ago)
 - [Parametrise `generate_dicom_dataset()`](https://github.com/UCLH-Foundry/PIXL/pull/348) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
-- [Fix macOS GHA workflow](https://github.com/milanmlft/jupytextR/pull/17) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
-- [Fix type check for ipynb content](https://github.com/milanmlft/jupytextR/pull/16) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+- [Fix macOS GHA workflow](https://github.com/milanmlft/jupytextR/pull/17) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
 
 #### ⭐ Recent Stars
