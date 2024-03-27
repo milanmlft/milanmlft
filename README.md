@@ -24,27 +24,27 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
-- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (2 weeks ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (2 weeks ago)
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (2 weeks ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 day ago)
+- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (2 days ago)
 - [Allow customisable tag operations per MR model](https://github.com/UCLH-Foundry/PIXL/pull/354) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
+  (6 days ago)
 - [Allow merging multiple tag schemas](https://github.com/UCLH-Foundry/PIXL/pull/352) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
+  (6 days ago)
 - [Parametrise `generate_dicom_dataset()`](https://github.com/UCLH-Foundry/PIXL/pull/348) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Fix macOS GHA workflow](https://github.com/milanmlft/jupytextR/pull/17) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
 
 #### ⭐ Recent Stars
@@ -52,7 +52,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
   (3 weeks ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-  (4 weeks ago)
+  (1 month ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
   (1 month ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
