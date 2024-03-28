@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (2 days ago)
+  (1 day ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
@@ -36,21 +36,21 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
-- [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [Various docs updates](https://github.com/UCLH-Foundry/PIXL/pull/362) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 day ago)
-- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [Allow running (almost) all module tests from root](https://github.com/UCLH-Foundry/PIXL/pull/361) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
+- [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 days ago)
+- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (3 days ago)
 - [Allow customisable tag operations per MR model](https://github.com/UCLH-Foundry/PIXL/pull/354) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
-- [Allow merging multiple tag schemas](https://github.com/UCLH-Foundry/PIXL/pull/352) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
-- [Parametrise `generate_dicom_dataset()`](https://github.com/UCLH-Foundry/PIXL/pull/348) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (3 weeks ago)
+  (4 weeks ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   (1 month ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
