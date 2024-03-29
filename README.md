@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
@@ -37,13 +37,13 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Various docs updates](https://github.com/UCLH-Foundry/PIXL/pull/362) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
-- [Allow running (almost) all module tests from root](https://github.com/UCLH-Foundry/PIXL/pull/361) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
-- [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 days ago)
-- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [Allow running (almost) all module tests from root](https://github.com/UCLH-Foundry/PIXL/pull/361) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (2 days ago)
+- [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (3 days ago)
+- [Increase timeout for `imaging-api` test containers](https://github.com/UCLH-Foundry/PIXL/pull/358) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (4 days ago)
 - [Allow customisable tag operations per MR model](https://github.com/UCLH-Foundry/PIXL/pull/354) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
