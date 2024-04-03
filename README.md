@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (2 weeks ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
@@ -37,13 +37,13 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (today)
+  (1 day ago)
 - [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/35) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (today)
+  (1 day ago)
 - [Various docs updates](https://github.com/UCLH-Foundry/PIXL/pull/362) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
+  (1 week ago)
 - [Allow running (almost) all module tests from root](https://github.com/UCLH-Foundry/PIXL/pull/361) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
+  (1 week ago)
 - [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
