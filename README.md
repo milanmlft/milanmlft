@@ -23,6 +23,8 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (1 day ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
@@ -31,20 +33,18 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
   (3 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (3 weeks ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Another attempt to fix macos CI](https://github.com/milanmlft/jupytextR/pull/19) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+  (1 day ago)
 - [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (1 day ago)
+  (2 days ago)
 - [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/35) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 day ago)
+  (2 days ago)
 - [Various docs updates](https://github.com/UCLH-Foundry/PIXL/pull/362) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Allow running (almost) all module tests from root](https://github.com/UCLH-Foundry/PIXL/pull/361) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [WIP: Add unit test for anonymisation process](https://github.com/UCLH-Foundry/PIXL/pull/360) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
 #### ⭐ Recent Stars
