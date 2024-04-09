@@ -23,25 +23,25 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (4 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (1 day ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (5 days ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (3 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Another attempt to fix macos CI](https://github.com/milanmlft/jupytextR/pull/19) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (5 days ago)
+  (6 days ago)
 - [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
-  (6 days ago)
+  (1 week ago)
 - [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/35) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Various docs updates](https://github.com/UCLH-Foundry/PIXL/pull/362) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Allow running (almost) all module tests from root](https://github.com/UCLH-Foundry/PIXL/pull/361) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
