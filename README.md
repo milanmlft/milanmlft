@@ -24,20 +24,20 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (2 days ago)
+  (1 day ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (3 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
-  (4 weeks ago)
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Force reinstallation of PIXL modules in Docker containers](https://github.com/UCLH-Foundry/PIXL/pull/365) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
+  (2 days ago)
 - [Another attempt to fix macos CI](https://github.com/milanmlft/jupytextR/pull/19) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
 - [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
