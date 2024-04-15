@@ -23,23 +23,23 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (2 days ago)
+  (3 days ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
-  (4 days ago)
+  (1 week ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add per-project hashing salt](https://github.com/UCLH-Foundry/PIXL/pull/371) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
+  (4 days ago)
 - [Force reinstallation of PIXL modules in Docker containers](https://github.com/UCLH-Foundry/PIXL/pull/365) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (3 days ago)
+  (6 days ago)
 - [Another attempt to fix macos CI](https://github.com/milanmlft/jupytextR/pull/19) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
 - [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
