@@ -23,12 +23,12 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 week ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
-  (1 week ago)
+  (2 weeks ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (2 weeks ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
@@ -49,13 +49,13 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### ⭐ Recent Stars
 
+- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
+  (3 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
   (1 month ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
   (1 month ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
-  (1 month ago)
+  (2 months ago)
 - [nvim-neotest/neotest](https://github.com/nvim-neotest/neotest) - An extensible framework for interacting with tests within NeoVim.
-  (1 month ago)
-- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
-  (1 month ago)
+  (2 months ago)
