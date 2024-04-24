@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 week ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
@@ -32,27 +32,27 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (2 weeks ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add DICOMweb uploader](https://github.com/UCLH-Foundry/PIXL/pull/379) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (1 day ago)
 - [Add per-project hashing salt](https://github.com/UCLH-Foundry/PIXL/pull/371) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Force reinstallation of PIXL modules in Docker containers](https://github.com/UCLH-Foundry/PIXL/pull/365) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 weeks ago)
 - [Another attempt to fix macos CI](https://github.com/milanmlft/jupytextR/pull/19) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (2 weeks ago)
-- [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
   (3 weeks ago)
-- [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/35) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+- [Update 17 packages](https://github.com/LearnToDiscover/case-study-antibodies/pull/3) on [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies)
   (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-  (1 day ago)
+  (2 days ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
-  (4 days ago)
+  (5 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
   (1 month ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
