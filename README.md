@@ -24,22 +24,22 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (2 days ago)
+  (5 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (3 days ago)
+  (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (1 week ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
-  (3 weeks ago)
+  (4 weeks ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add test coverage tracking](https://github.com/UCLH-Foundry/PIXL/pull/382) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (4 days ago)
+  (1 week ago)
 - [Fix the DICOMweb uploader and its tests](https://github.com/UCLH-Foundry/PIXL/pull/381) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (4 days ago)
+  (1 week ago)
 - [Fix the navbar template](https://github.com/LearnToDiscover/varnish/pull/9) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
   (1 week ago)
 - [Include `project_slug` in Image PIXL database queries](https://github.com/UCLH-Foundry/PIXL/pull/380) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
@@ -50,7 +50,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-  (1 week ago)
+  (2 weeks ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
   (2 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
