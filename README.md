@@ -23,9 +23,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (5 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (today)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
@@ -36,6 +36,8 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 23 packages](https://github.com/UCL/ClinicianCoders/pull/36) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (today)
 - [Add test coverage tracking](https://github.com/UCLH-Foundry/PIXL/pull/382) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Fix the DICOMweb uploader and its tests](https://github.com/UCLH-Foundry/PIXL/pull/381) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
@@ -43,8 +45,6 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [Fix the navbar template](https://github.com/LearnToDiscover/varnish/pull/9) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
   (1 week ago)
 - [Include `project_slug` in Image PIXL database queries](https://github.com/UCLH-Foundry/PIXL/pull/380) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Add DICOMweb uploader](https://github.com/UCLH-Foundry/PIXL/pull/379) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 
 #### ⭐ Recent Stars
