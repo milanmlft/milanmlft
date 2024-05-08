@@ -24,20 +24,20 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (today)
+  (1 day ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
-  (4 weeks ago)
+  (1 month ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update 23 packages](https://github.com/UCL/ClinicianCoders/pull/36) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (today)
+  (1 day ago)
 - [Add test coverage tracking](https://github.com/UCLH-Foundry/PIXL/pull/382) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [Fix the DICOMweb uploader and its tests](https://github.com/UCLH-Foundry/PIXL/pull/381) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
