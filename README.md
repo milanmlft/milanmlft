@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (3 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (6 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 weeks ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
-  (1 month ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update 23 packages](https://github.com/UCL/ClinicianCoders/pull/36) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+- [Fix tests](https://github.com/HealthBioscienceIDEAS/sandpaper/pull/3) on [HealthBioscienceIDEAS/sandpaper](https://github.com/HealthBioscienceIDEAS/sandpaper)
   (3 days ago)
+- [Hide episodes that we don&#39;t cover](https://github.com/UCL/ClinicianCoders/pull/38) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (3 days ago)
+- [Update statistics episode](https://github.com/UCL/ClinicianCoders/pull/37) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (3 days ago)
+- [Update 23 packages](https://github.com/UCL/ClinicianCoders/pull/36) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
 - [Add test coverage tracking](https://github.com/UCLH-Foundry/PIXL/pull/382) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Fix the DICOMweb uploader and its tests](https://github.com/UCLH-Foundry/PIXL/pull/381) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
-- [Fix the navbar template](https://github.com/LearnToDiscover/varnish/pull/9) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (2 weeks ago)
-- [Include `project_slug` in Image PIXL database queries](https://github.com/UCLH-Foundry/PIXL/pull/380) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+  (3 days ago)
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-  (2 weeks ago)
+  (3 weeks ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
   (3 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
   (2 months ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-  (2 months ago)
-- [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
   (2 months ago)
