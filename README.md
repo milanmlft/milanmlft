@@ -24,11 +24,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (today)
+  (1 day ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (4 days ago)
+  (5 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 week ago)
+  (2 weeks ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (2 weeks ago)
 - [swcarpentry/r-novice-gapminder](https://github.com/swcarpentry/r-novice-gapminder) - R for Reproducible Scientific Analysis
@@ -36,21 +36,21 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove unwanted elements from footer and update URL icons](https://github.com/LearnToDiscover/varnish/pull/14) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (1 day ago)
+- [Fix L2D logos in the correct place](https://github.com/LearnToDiscover/varnish/pull/13) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (1 day ago)
+- [Allow setting a custom Carpentry type](https://github.com/carpentries/sandpaper/pull/585) on [carpentries/sandpaper](https://github.com/carpentries/sandpaper)
+  (1 day ago)
 - [Fix tests](https://github.com/HealthBioscienceIDEAS/sandpaper/pull/3) on [HealthBioscienceIDEAS/sandpaper](https://github.com/HealthBioscienceIDEAS/sandpaper)
-  (4 days ago)
+  (5 days ago)
 - [Hide episodes that we don&#39;t cover](https://github.com/UCL/ClinicianCoders/pull/38) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (4 days ago)
-- [Update statistics episode](https://github.com/UCL/ClinicianCoders/pull/37) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (4 days ago)
-- [Update 23 packages](https://github.com/UCL/ClinicianCoders/pull/36) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
-- [Add test coverage tracking](https://github.com/UCLH-Foundry/PIXL/pull/382) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (2 weeks ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-  (4 days ago)
+  (5 days ago)
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
   (3 weeks ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
