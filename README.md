@@ -24,9 +24,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (5 days ago)
+  (6 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (2 weeks ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
@@ -37,20 +37,20 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Remove unwanted elements from footer and update URL icons](https://github.com/LearnToDiscover/varnish/pull/14) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
+  (2 days ago)
 - [Fix L2D logos in the correct place](https://github.com/LearnToDiscover/varnish/pull/13) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
+  (2 days ago)
 - [Allow setting a custom Carpentry type](https://github.com/carpentries/sandpaper/pull/585) on [carpentries/sandpaper](https://github.com/carpentries/sandpaper)
-  (1 day ago)
+  (2 days ago)
 - [Fix tests](https://github.com/HealthBioscienceIDEAS/sandpaper/pull/3) on [HealthBioscienceIDEAS/sandpaper](https://github.com/HealthBioscienceIDEAS/sandpaper)
-  (5 days ago)
+  (6 days ago)
 - [Hide episodes that we don&#39;t cover](https://github.com/UCL/ClinicianCoders/pull/38) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-  (5 days ago)
+  (6 days ago)
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
   (3 weeks ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
