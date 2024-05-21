@@ -23,12 +23,12 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (today)
-- [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver) - A PyTest  plugin  which gives you a local ftp server for your tests
-  (3 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (6 days ago)
+  (today)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 day ago)
+- [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver) - A PyTest  plugin  which gives you a local ftp server for your tests
+  (4 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
@@ -37,11 +37,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Remove unwanted elements from footer and update URL icons](https://github.com/LearnToDiscover/varnish/pull/14) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (6 days ago)
+  (1 week ago)
 - [Fix L2D logos in the correct place](https://github.com/LearnToDiscover/varnish/pull/13) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (6 days ago)
+  (1 week ago)
 - [Allow setting a custom Carpentry type](https://github.com/carpentries/sandpaper/pull/585) on [carpentries/sandpaper](https://github.com/carpentries/sandpaper)
-  (6 days ago)
+  (1 week ago)
 - [Fix tests](https://github.com/HealthBioscienceIDEAS/sandpaper/pull/3) on [HealthBioscienceIDEAS/sandpaper](https://github.com/HealthBioscienceIDEAS/sandpaper)
   (1 week ago)
 - [Hide episodes that we don&#39;t cover](https://github.com/UCL/ClinicianCoders/pull/38) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
