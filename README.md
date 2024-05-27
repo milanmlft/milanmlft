@@ -23,10 +23,10 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (3 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (3 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (6 days ago)
 - [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver) - A PyTest  plugin  which gives you a local ftp server for your tests
   (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
@@ -36,21 +36,21 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix and update tests after varnish updates](https://github.com/LearnToDiscover/sandpaper/pull/78) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (3 days ago)
+- [Fix base renovate schema filename](https://github.com/LearnToDiscover/sandpaper/pull/77) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (3 days ago)
+- [Fix base renovate schema filename](https://github.com/LearnToDiscover/varnish/pull/21) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (3 days ago)
 - [Include level 3 headings in sidebar](https://github.com/LearnToDiscover/sandpaper/pull/76) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 day ago)
+  (4 days ago)
 - [Remove &#39;Glossary&#39; and &#39;More tabs&#39;](https://github.com/LearnToDiscover/varnish/pull/20) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
-- [Remove unwanted elements from footer and update URL icons](https://github.com/LearnToDiscover/varnish/pull/14) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 week ago)
-- [Fix L2D logos in the correct place](https://github.com/LearnToDiscover/varnish/pull/13) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 week ago)
-- [Allow setting a custom Carpentry type](https://github.com/carpentries/sandpaper/pull/585) on [carpentries/sandpaper](https://github.com/carpentries/sandpaper)
-  (1 week ago)
+  (4 days ago)
 
 #### ⭐ Recent Stars
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-  (1 day ago)
+  (4 days ago)
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
   (2 weeks ago)
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
