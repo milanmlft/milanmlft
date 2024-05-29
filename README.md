@@ -24,33 +24,33 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (today)
+  (1 day ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (5 days ago)
 - [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver) - A PyTest  plugin  which gives you a local ftp server for your tests
   (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (2 weeks ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Fix and update tests after varnish updates](https://github.com/LearnToDiscover/sandpaper/pull/78) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (4 days ago)
+  (5 days ago)
 - [Fix base renovate schema filename](https://github.com/LearnToDiscover/sandpaper/pull/77) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (4 days ago)
+  (5 days ago)
 - [Fix base renovate schema filename](https://github.com/LearnToDiscover/varnish/pull/21) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (4 days ago)
+  (5 days ago)
 - [Include level 3 headings in sidebar](https://github.com/LearnToDiscover/sandpaper/pull/76) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (5 days ago)
+  (6 days ago)
 - [Remove &#39;Glossary&#39; and &#39;More tabs&#39;](https://github.com/LearnToDiscover/varnish/pull/20) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (5 days ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-  (5 days ago)
+  (6 days ago)
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
   (2 weeks ago)
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
@@ -58,4 +58,4 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
   (1 month ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (2 months ago)
+  (3 months ago)
