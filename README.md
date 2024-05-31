@@ -26,33 +26,33 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 day ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (2 days ago)
+  (3 days ago)
 - [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver) - A PyTest  plugin  which gives you a local ftp server for your tests
-  (1 week ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (2 weeks ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (3 weeks ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 weeks ago)
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add link to episode PDF](https://github.com/LearnToDiscover/varnish/pull/27) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (1 day ago)
+- [Generate single-episode PDFs](https://github.com/LearnToDiscover/sandpaper/pull/82) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (1 day ago)
+- [Distribute Questions and Objectives more evenly](https://github.com/LearnToDiscover/sandpaper/pull/81) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (1 day ago)
 - [Make sidebar sticky](https://github.com/LearnToDiscover/varnish/pull/26) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
+  (2 days ago)
 - [Make sidebar sticky](https://github.com/carpentries/varnish/pull/140) on [carpentries/varnish](https://github.com/carpentries/varnish)
-  (1 day ago)
-- [Make sidebar sticky](https://github.com/LearnToDiscover/varnish/pull/25) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
-- [Make sidebar sticky](https://github.com/carpentries/varnish/pull/139) on [carpentries/varnish](https://github.com/carpentries/varnish)
-  (1 day ago)
-- [Fix and update tests after varnish updates](https://github.com/LearnToDiscover/sandpaper/pull/78) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (6 days ago)
+  (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
   (1 week ago)
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-  (2 weeks ago)
+  (3 weeks ago)
 - [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
   (1 month ago)
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
