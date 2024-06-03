@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (3 days ago)
-- [oz123/pytest-localftpserver](https://github.com/oz123/pytest-localftpserver) - A PyTest  plugin  which gives you a local ftp server for your tests
-  (2 weeks ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (3 weeks ago)
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 month ago)
+- [milanmlft/sandpaper-test-releases](https://github.com/milanmlft/sandpaper-test-releases)
+  (3 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
+- [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
+  (4 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Allow scheduling releases](https://github.com/LearnToDiscover/sandpaper/pull/84) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (3 days ago)
 - [Add link to episode PDF](https://github.com/LearnToDiscover/varnish/pull/27) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
+  (4 days ago)
 - [Generate single-episode PDFs](https://github.com/LearnToDiscover/sandpaper/pull/82) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 day ago)
+  (4 days ago)
 - [Distribute Questions and Objectives more evenly](https://github.com/LearnToDiscover/sandpaper/pull/81) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 day ago)
+  (4 days ago)
 - [Make sidebar sticky](https://github.com/LearnToDiscover/varnish/pull/26) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (2 days ago)
-- [Make sidebar sticky](https://github.com/carpentries/varnish/pull/140) on [carpentries/varnish](https://github.com/carpentries/varnish)
-  (2 days ago)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
-  (1 week ago)
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-  (3 weeks ago)
-- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
-  (1 month ago)
-- [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
-  (1 month ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
-  (3 months ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+  (3 days ago)
+- [statOmics/HDDA](https://github.com/statOmics/HDDA) - Course material for the High Dimensional Data Analysis course at Ghent University
+  (3 days ago)
+- [statOmics/TargetDecoy](https://github.com/statOmics/TargetDecoy) - Diagnostic Plots to Evaluate the Target Decoy Approach
+  (3 days ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (3 days ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (3 days ago)
