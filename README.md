@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/sandpaper-test-releases](https://github.com/milanmlft/sandpaper-test-releases)
-  (5 days ago)
+  (6 days ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (5 days ago)
+  (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (5 days ago)
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Avoid duplicate caching](https://github.com/LearnToDiscover/sandpaper/pull/87) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 day ago)
+  (2 days ago)
 - [Update 2 packages](https://github.com/milanmlft/sandpaper-test/pull/2) on [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
-  (1 day ago)
+  (2 days ago)
 - [Update 4 packages](https://github.com/UCL/ClinicianCoders/pull/40) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 day ago)
+  (2 days ago)
 - [Allow scheduling releases](https://github.com/LearnToDiscover/sandpaper/pull/84) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (5 days ago)
-- [Add link to episode PDF](https://github.com/LearnToDiscover/varnish/pull/27) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
   (6 days ago)
+- [Add link to episode PDF](https://github.com/LearnToDiscover/varnish/pull/27) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (5 days ago)
+  (6 days ago)
 - [statOmics/HDDA](https://github.com/statOmics/HDDA) - Course material for the High Dimensional Data Analysis course at Ghent University
-  (5 days ago)
+  (6 days ago)
 - [statOmics/TargetDecoy](https://github.com/statOmics/TargetDecoy) - Diagnostic Plots to Evaluate the Target Decoy Approach
-  (5 days ago)
+  (6 days ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (5 days ago)
+  (6 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (5 days ago)
+  (6 days ago)
