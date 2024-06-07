@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (2 days ago)
+- [LearnToDiscover/lesson-template](https://github.com/LearnToDiscover/lesson-template)
+  (1 day ago)
 - [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
-  (2 days ago)
-- [milanmlft/sandpaper-test-releases](https://github.com/milanmlft/sandpaper-test-releases)
-  (6 days ago)
-- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (6 days ago)
+  (3 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (3 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
+- [milanmlft/sandpaper-test-releases](https://github.com/milanmlft/sandpaper-test-releases)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add link to L2D handbook in header](https://github.com/LearnToDiscover/varnish/pull/29) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (1 day ago)
 - [Avoid duplicate caching](https://github.com/LearnToDiscover/sandpaper/pull/87) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (2 days ago)
+  (3 days ago)
 - [Update 2 packages](https://github.com/milanmlft/sandpaper-test/pull/2) on [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
-  (2 days ago)
+  (3 days ago)
 - [Update 4 packages](https://github.com/UCL/ClinicianCoders/pull/40) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 days ago)
+  (3 days ago)
 - [Allow scheduling releases](https://github.com/LearnToDiscover/sandpaper/pull/84) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (6 days ago)
-- [Add link to episode PDF](https://github.com/LearnToDiscover/varnish/pull/27) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (6 days ago)
+  (1 week ago)
 - [statOmics/HDDA](https://github.com/statOmics/HDDA) - Course material for the High Dimensional Data Analysis course at Ghent University
-  (6 days ago)
+  (1 week ago)
 - [statOmics/TargetDecoy](https://github.com/statOmics/TargetDecoy) - Diagnostic Plots to Evaluate the Target Decoy Approach
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (6 days ago)
+  (1 week ago)
