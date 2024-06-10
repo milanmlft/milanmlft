@@ -24,31 +24,33 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/lesson-template](https://github.com/LearnToDiscover/lesson-template)
-  (1 day ago)
-- [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
   (3 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (3 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (6 days ago)
+- [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
+  (6 days ago)
 - [milanmlft/sandpaper-test-releases](https://github.com/milanmlft/sandpaper-test-releases)
+  (1 week ago)
+- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [[bug fix] Prevent `update_cache()` from removing uninstalled Python dependencies from `requirements.txt`](https://github.com/LearnToDiscover/sandpaper/pull/88) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (3 days ago)
+- [[bug fix] Make sure `update_cache()` doesn&#39;t remove uninstalled Python dependencies from `requirements.txt`](https://github.com/milanmlft/sandpaper/pull/23) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
+  (3 days ago)
 - [Add link to L2D handbook in header](https://github.com/LearnToDiscover/varnish/pull/29) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
-  (1 day ago)
+  (4 days ago)
 - [Avoid duplicate caching](https://github.com/LearnToDiscover/sandpaper/pull/87) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (3 days ago)
+  (6 days ago)
 - [Update 2 packages](https://github.com/milanmlft/sandpaper-test/pull/2) on [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
-  (3 days ago)
-- [Update 4 packages](https://github.com/UCL/ClinicianCoders/pull/40) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 days ago)
-- [Allow scheduling releases](https://github.com/LearnToDiscover/sandpaper/pull/84) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 week ago)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
+- [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
+  (3 days ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 week ago)
 - [statOmics/HDDA](https://github.com/statOmics/HDDA) - Course material for the High Dimensional Data Analysis course at Ghent University
@@ -56,6 +58,4 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [statOmics/TargetDecoy](https://github.com/statOmics/TargetDecoy) - Diagnostic Plots to Evaluate the Target Decoy Approach
   (1 week ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (1 week ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
