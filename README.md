@@ -23,25 +23,25 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 day ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 days ago)
-- [LearnToDiscover/lesson-template](https://github.com/LearnToDiscover/lesson-template)
-  (5 days ago)
-- [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
-  (1 week ago)
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
+  (1 day ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (2 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
+- [LearnToDiscover/lesson-template](https://github.com/LearnToDiscover/lesson-template)
+  (6 days ago)
+- [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [[bug fix] Prevent `update_cache()` from removing uninstalled Python dependencies from `requirements.txt`](https://github.com/LearnToDiscover/sandpaper/pull/88) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (5 days ago)
-- [[bug fix] Make sure `update_cache()` doesn&#39;t remove uninstalled Python dependencies from `requirements.txt`](https://github.com/milanmlft/sandpaper/pull/23) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
-  (5 days ago)
-- [Add link to L2D handbook in header](https://github.com/LearnToDiscover/varnish/pull/29) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
   (6 days ago)
+- [[bug fix] Make sure `update_cache()` doesn&#39;t remove uninstalled Python dependencies from `requirements.txt`](https://github.com/milanmlft/sandpaper/pull/23) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
+  (6 days ago)
+- [Add link to L2D handbook in header](https://github.com/LearnToDiscover/varnish/pull/29) on [LearnToDiscover/varnish](https://github.com/LearnToDiscover/varnish)
+  (1 week ago)
 - [Avoid duplicate caching](https://github.com/LearnToDiscover/sandpaper/pull/87) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
   (1 week ago)
 - [Update 2 packages](https://github.com/milanmlft/sandpaper-test/pull/2) on [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
@@ -50,7 +50,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
-  (5 days ago)
+  (6 days ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 week ago)
 - [statOmics/HDDA](https://github.com/statOmics/HDDA) - Course material for the High Dimensional Data Analysis course at Ghent University
