@@ -24,11 +24,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (2 days ago)
+  (5 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (3 days ago)
+  (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
+  (1 week ago)
 - [LearnToDiscover/lesson-template](https://github.com/LearnToDiscover/lesson-template)
   (1 week ago)
 - [milanmlft/sandpaper-test](https://github.com/milanmlft/sandpaper-test)
@@ -37,7 +37,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Move `pixldc` commands into PIXL CLI](https://github.com/UCLH-Foundry/PIXL/pull/411) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 day ago)
+  (4 days ago)
 - [[bug fix] Prevent `update_cache()` from removing uninstalled Python dependencies from `requirements.txt`](https://github.com/LearnToDiscover/sandpaper/pull/88) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
   (1 week ago)
 - [[bug fix] Make sure `update_cache()` doesn&#39;t remove uninstalled Python dependencies from `requirements.txt`](https://github.com/milanmlft/sandpaper/pull/23) on [milanmlft/sandpaper](https://github.com/milanmlft/sandpaper)
