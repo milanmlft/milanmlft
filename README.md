@@ -23,32 +23,34 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+- [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
   (1 day ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (2 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (5 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (6 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 week ago)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
   (1 week ago)
-- [milanmlft/carpentries-quarto](https://github.com/milanmlft/carpentries-quarto) - Carpentries lessons in Quarto
-  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+- [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
   (1 day ago)
+- [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (2 days ago)
 - [Validate anonymised Dicom tags](https://github.com/UCLH-Foundry/PIXL/pull/414) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
-- [Update README](https://github.com/UCLH-Foundry/PIXL/pull/413) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (6 days ago)
-- [renovate: Set monthly schedule as default](https://github.com/milanmlft/.github/pull/1) on [milanmlft/.github](https://github.com/milanmlft/.github)
+- [Update README](https://github.com/UCLH-Foundry/PIXL/pull/413) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
-- [Move `pixldc` commands into PIXL CLI](https://github.com/UCLH-Foundry/PIXL/pull/411) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+- [renovate: Set monthly schedule as default](https://github.com/milanmlft/.github/pull/1) on [milanmlft/.github](https://github.com/milanmlft/.github)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [r-lib/rig](https://github.com/r-lib/rig) - The R Installation Manager
+  (1 day ago)
 - [UCL-ARC/myriad-python-analysis-example](https://github.com/UCL-ARC/myriad-python-analysis-example) - Example of how to run a Python analysis script on UCL&#39;s Myriad cluster
   (1 week ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
@@ -56,6 +58,4 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
   (2 weeks ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (3 weeks ago)
-- [statOmics/HDDA](https://github.com/statOmics/HDDA) - Course material for the High Dimensional Data Analysis course at Ghent University
   (3 weeks ago)
