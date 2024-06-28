@@ -24,11 +24,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (1 day ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (2 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (3 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
@@ -37,11 +37,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (1 day ago)
-- [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (2 days ago)
+- [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (3 days ago)
 - [Validate anonymised Dicom tags](https://github.com/UCLH-Foundry/PIXL/pull/414) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (6 days ago)
+  (1 week ago)
 - [Update README](https://github.com/UCLH-Foundry/PIXL/pull/413) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 week ago)
 - [renovate: Set monthly schedule as default](https://github.com/milanmlft/.github/pull/1) on [milanmlft/.github](https://github.com/milanmlft/.github)
@@ -50,12 +50,12 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [r-lib/rig](https://github.com/r-lib/rig) - The R Installation Manager
-  (1 day ago)
+  (2 days ago)
 - [UCL-ARC/myriad-python-analysis-example](https://github.com/UCL-ARC/myriad-python-analysis-example) - Example of how to run a Python analysis script on UCL&#39;s Myriad cluster
   (1 week ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
   (1 week ago)
 - [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
-  (2 weeks ago)
-- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (3 weeks ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+  (4 weeks ago)
