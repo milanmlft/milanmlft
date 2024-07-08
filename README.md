@@ -23,23 +23,23 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 day ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (1 day ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
   (3 days ago)
-- [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (1 week ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (4 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (4 days ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (4 days ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (6 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add documentation building with `MkDocs`](https://github.com/milanmlft/todo/pull/1) on [milanmlft/todo](https://github.com/milanmlft/todo)
-  (1 day ago)
+  (4 days ago)
 - [Update 9 packages](https://github.com/UCL/ClinicianCoders/pull/43) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 days ago)
+  (6 days ago)
 - [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
   (1 week ago)
 - [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
@@ -54,8 +54,8 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [UCL-ARC/myriad-python-analysis-example](https://github.com/UCL-ARC/myriad-python-analysis-example) - Example of how to run a Python analysis script on UCL&#39;s Myriad cluster
   (2 weeks ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (2 weeks ago)
+  (3 weeks ago)
 - [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
-  (4 weeks ago)
+  (1 month ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 month ago)
