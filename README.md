@@ -23,27 +23,27 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (3 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (4 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (6 days ago)
+  (today)
+- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
+  (4 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (5 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (5 days ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (5 days ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add documentation building with `MkDocs`](https://github.com/milanmlft/todo/pull/1) on [milanmlft/todo](https://github.com/milanmlft/todo)
-  (4 days ago)
+  (5 days ago)
 - [Update 9 packages](https://github.com/UCL/ClinicianCoders/pull/43) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
   (1 week ago)
 - [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
+  (2 weeks ago)
 - [Validate anonymised Dicom tags](https://github.com/UCLH-Foundry/PIXL/pull/414) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (2 weeks ago)
 
