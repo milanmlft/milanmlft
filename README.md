@@ -24,20 +24,20 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (1 day ago)
+  (2 days ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (5 days ago)
+  (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (6 days ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Add documentation building with `MkDocs`](https://github.com/milanmlft/todo/pull/1) on [milanmlft/todo](https://github.com/milanmlft/todo)
-  (6 days ago)
+  (1 week ago)
 - [Update 9 packages](https://github.com/UCL/ClinicianCoders/pull/43) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 week ago)
 - [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
