@@ -24,9 +24,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (2 days ago)
+  (3 days ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
@@ -45,7 +45,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (2 weeks ago)
 - [Validate anonymised Dicom tags](https://github.com/UCLH-Foundry/PIXL/pull/414) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### ⭐ Recent Stars
 
