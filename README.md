@@ -24,14 +24,14 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
-  (2 days ago)
+  (3 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
   (1 week ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (2 weeks ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (3 weeks ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
+  (3 weeks ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
@@ -41,7 +41,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [Update 9 packages](https://github.com/UCL/ClinicianCoders/pull/43) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (3 weeks ago)
 - [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (4 weeks ago)
+  (1 month ago)
 - [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 month ago)
 - [Validate anonymised Dicom tags](https://github.com/UCLH-Foundry/PIXL/pull/414) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
@@ -52,7 +52,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
   (1 week ago)
 - [r-lib/rig](https://github.com/r-lib/rig) - The R Installation Manager
-  (4 weeks ago)
+  (1 month ago)
 - [UCL-ARC/myriad-python-analysis-example](https://github.com/UCL-ARC/myriad-python-analysis-example) - Example of how to run a Python analysis script on UCL&#39;s Myriad cluster
   (1 month ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
