@@ -36,15 +36,15 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Sync `carpentries-main` branch with upstream Carpentries repo](https://github.com/LearnToDiscover/sandpaper/pull/97) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (today)
+- [Only keep `main` branch in sync with Carpentries](https://github.com/LearnToDiscover/sandpaper/pull/96) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (today)
 - [Add documentation building with `MkDocs`](https://github.com/milanmlft/todo/pull/1) on [milanmlft/todo](https://github.com/milanmlft/todo)
   (3 weeks ago)
 - [Update 9 packages](https://github.com/UCL/ClinicianCoders/pull/43) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (3 weeks ago)
 - [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (1 month ago)
-- [Update Workflows to Version 0.16.5](https://github.com/UCL/ClinicianCoders/pull/42) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 month ago)
-- [Validate anonymised Dicom tags](https://github.com/UCLH-Foundry/PIXL/pull/414) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
   (1 month ago)
 
 #### ⭐ Recent Stars
