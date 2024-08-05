@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (3 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (5 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 week ago)
+  (2 weeks ago)
 - [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (3 weeks ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (3 weeks ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 weeks ago)
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Sync `carpentries-main` branch with upstream Carpentries repo](https://github.com/LearnToDiscover/sandpaper/pull/97) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (today)
-- [Only keep `main` branch in sync with Carpentries](https://github.com/LearnToDiscover/sandpaper/pull/96) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (today)
-- [Add documentation building with `MkDocs`](https://github.com/milanmlft/todo/pull/1) on [milanmlft/todo](https://github.com/milanmlft/todo)
-  (3 weeks ago)
-- [Update 9 packages](https://github.com/UCL/ClinicianCoders/pull/43) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 weeks ago)
-- [Add project idea template](https://github.com/HTAhackathon2024/.github/pull/5) on [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (1 month ago)
+- [Switch to `carpentries/sandpaper` instead of our own fork](https://github.com/HealthBioscienceIDEAS/microscopy-novice/pull/66) on [HealthBioscienceIDEAS/microscopy-novice](https://github.com/HealthBioscienceIDEAS/microscopy-novice)
+  (3 days ago)
+- [Update 3 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/1) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (4 days ago)
+- [Use imaging UID from OMOP-ES extract](https://github.com/UCLH-Foundry/PIXL/pull/469) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
+  (5 days ago)
+- [Sync with Carpentries](https://github.com/LearnToDiscover/sandpaper/pull/99) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (6 days ago)
+- [Fresh start for zsh setup](https://github.com/milanmlft/dotfiles/pull/2) on [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+  (6 days ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+  (6 days ago)
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
-  (2 weeks ago)
+  (3 weeks ago)
 - [r-lib/rig](https://github.com/r-lib/rig) - The R Installation Manager
   (1 month ago)
 - [UCL-ARC/myriad-python-analysis-example](https://github.com/UCL-ARC/myriad-python-analysis-example) - Example of how to run a Python analysis script on UCL&#39;s Myriad cluster
-  (1 month ago)
-- [UCL-MIRSG/xnat-aws](https://github.com/UCL-MIRSG/xnat-aws) - Deploy XNAT on AWS
-  (1 month ago)
-- [dokato/todor](https://github.com/dokato/todor) - TODOr - RStudio add-in for finding TODO, FIXME, CHANGED etc. comments in your code.
   (1 month ago)
