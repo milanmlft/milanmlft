@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (4 days ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (5 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
-- [LearnToDiscover/LearnToDiscover.r-universe.dev](https://github.com/LearnToDiscover/LearnToDiscover.r-universe.dev) - R Universe Package Registry for L2D
+- [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex) - What the Package Does (One Line, Title Case)
   (6 days ago)
-- [HTAhackathon2024/.github](https://github.com/HTAhackathon2024/.github)
-  (6 days ago)
+- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+  (1 week ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Adapt git episodes to use data dictionary example](https://github.com/UCL-ARC/r-amr-epidemiology/pull/17) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (4 days ago)
 - [Set development version](https://github.com/UCLH-Foundry/PIXL/pull/476) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
+  (1 week ago)
 - [Use L2D workflows](https://github.com/LearnToDiscover/sandpaper/pull/106) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (5 days ago)
+  (1 week ago)
 - [Add HTA hackathon talk on R packages](https://github.com/milanmlft/talks/pull/1) on [milanmlft/talks](https://github.com/milanmlft/talks)
-  (5 days ago)
+  (1 week ago)
 - [Release 0.1.0](https://github.com/UCLH-Foundry/PIXL/pull/474) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (5 days ago)
-- [Fix statistics episode](https://github.com/UCL-ARC/r-amr-epidemiology/pull/3) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
   (6 days ago)
+- [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+  (1 week ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  (1 week ago)
+  (2 weeks ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-  (1 week ago)
+  (2 weeks ago)
 - [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
-  (4 weeks ago)
-- [r-lib/rig](https://github.com/r-lib/rig) - The R Installation Manager
   (1 month ago)
