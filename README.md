@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (5 days ago)
+  (1 day ago)
+- [milanmlft/goapi](https://github.com/milanmlft/goapi) - A simple REST API written in Go
+  (1 day ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
 - [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex) - What the Package Does (One Line, Title Case)
-  (6 days ago)
+  (1 week ago)
 - [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
-  (1 week ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update RMarkdown episode to use Quarto and add section on parametrised reports](https://github.com/UCL-ARC/r-amr-epidemiology/pull/19) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Adapt git episodes to use data dictionary example](https://github.com/UCL-ARC/r-amr-epidemiology/pull/17) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (4 days ago)
+  (1 week ago)
 - [Set development version](https://github.com/UCLH-Foundry/PIXL/pull/476) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
+  (2 weeks ago)
 - [Use L2D workflows](https://github.com/LearnToDiscover/sandpaper/pull/106) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 week ago)
+  (2 weeks ago)
 - [Add HTA hackathon talk on R packages](https://github.com/milanmlft/talks/pull/1) on [milanmlft/talks](https://github.com/milanmlft/talks)
-  (1 week ago)
-- [Release 0.1.0](https://github.com/UCLH-Foundry/PIXL/pull/474) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced &amp; refactored fork of symbols-outline.nvim. 
   (6 days ago)
-- [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
   (1 week ago)
+- [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+  (2 weeks ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  (2 weeks ago)
+  (3 weeks ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-  (2 weeks ago)
-- [posit-dev/positron](https://github.com/posit-dev/positron) - Positron, a next-generation data science IDE
-  (1 month ago)
+  (3 weeks ago)
