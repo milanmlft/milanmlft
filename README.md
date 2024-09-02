@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 day ago)
-- [milanmlft/goapi](https://github.com/milanmlft/goapi) - A simple REST API written in Go
-  (1 day ago)
+- [carpentries/sandpaper](https://github.com/carpentries/sandpaper) - User Interface for The Carpentries Workbench
+  (3 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
-- [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex) - What the Package Does (One Line, Title Case)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
-- [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL) - PIXL Image eXtraction Laboratory
+- [milanmlft/goapi](https://github.com/milanmlft/goapi) - A simple REST API written in Go
+  (1 week ago)
+- [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex) - What the Package Does (One Line, Title Case)
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update RMarkdown episode to use Quarto and add section on parametrised reports](https://github.com/UCL-ARC/r-amr-epidemiology/pull/19) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+- [Bug fix: overwrite existing artifact in `pr-receive` workflow](https://github.com/carpentries/sandpaper/pull/602) on [carpentries/sandpaper](https://github.com/carpentries/sandpaper)
+  (3 days ago)
+- [Update Workflows to Version 0.16.6](https://github.com/UCL-ARC/r-amr-epidemiology/pull/23) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (6 days ago)
-- [Adapt git episodes to use data dictionary example](https://github.com/UCL-ARC/r-amr-epidemiology/pull/17) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+- [Update Workflows to Version 0.16.6](https://github.com/UCL/ClinicianCoders/pull/47) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update RMarkdown episode to use Quarto and add section on parametrised reports](https://github.com/UCL-ARC/r-amr-epidemiology/pull/19) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 week ago)
-- [Set development version](https://github.com/UCLH-Foundry/PIXL/pull/476) on [UCLH-Foundry/PIXL](https://github.com/UCLH-Foundry/PIXL)
-  (2 weeks ago)
-- [Use L2D workflows](https://github.com/LearnToDiscover/sandpaper/pull/106) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (2 weeks ago)
-- [Add HTA hackathon talk on R packages](https://github.com/milanmlft/talks/pull/1) on [milanmlft/talks](https://github.com/milanmlft/talks)
+- [Adapt git episodes to use data dictionary example](https://github.com/UCL-ARC/r-amr-epidemiology/pull/17) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced &amp; refactored fork of symbols-outline.nvim. 
-  (6 days ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
   (1 week ago)
-- [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced &amp; refactored fork of symbols-outline.nvim. 
+  (1 week ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
   (2 weeks ago)
+- [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+  (3 weeks ago)
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-  (3 weeks ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-  (3 weeks ago)
+  (1 month ago)
