@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/todo](https://github.com/milanmlft/todo)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (3 days ago)
+- [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles) - R package to provide access to OMOP bundles
+  (4 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
-- [carpentries/sandpaper](https://github.com/carpentries/sandpaper) - User Interface for The Carpentries Workbench
+- [milanmlft/todo](https://github.com/milanmlft/todo)
   (1 week ago)
 - [HealthBioscienceIDEAS/Medical-Image-Registration-Short-Course](https://github.com/HealthBioscienceIDEAS/Medical-Image-Registration-Short-Course) - ⚕️Short Course on Medical Image Registration
-  (1 week ago)
-- [milanmlft/goapi](https://github.com/milanmlft/goapi) - A simple REST API written in Go
   (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Fix copy-pasta typo; use correct repo name](https://github.com/SAFEHR-data/omop-bundles/pull/15) on [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles)
+  (6 days ago)
 - [Avoid long code chunk outputs for Statistics episode](https://github.com/UCL-ARC/r-amr-epidemiology/pull/29) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
+  (1 week ago)
 - [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/48) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/28) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
+  (1 week ago)
 - [Sync with `carpentries/sandpaper` 0.16.6](https://github.com/LearnToDiscover/sandpaper/pull/109) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 week ago)
-- [Bug fix: overwrite existing artifact in `pr-receive` workflow](https://github.com/carpentries/sandpaper/pull/602) on [carpentries/sandpaper](https://github.com/carpentries/sandpaper)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps 
-  (5 days ago)
+  (1 week ago)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-  (2 weeks ago)
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced &amp; refactored fork of symbols-outline.nvim. 
-  (2 weeks ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
   (3 weeks ago)
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Significantly enhanced &amp; refactored fork of symbols-outline.nvim. 
+  (3 weeks ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
+  (1 month ago)
 - [tidyverse/purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
   (1 month ago)
