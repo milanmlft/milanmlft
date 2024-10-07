@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles) - R package to provide access to OMOP bundles
-  (5 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (4 days ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (6 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
+- [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles) - R package to provide access to OMOP bundles
+  (1 week ago)
 - [milanmlft/data-dictionary](https://github.com/milanmlft/data-dictionary)
-  (1 week ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 week ago)
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 15 packages](https://github.com/UCL/ClinicianCoders/pull/49) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 24 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/32) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Ensure concept IDs are always returned as integers](https://github.com/SAFEHR-data/omop-bundles/pull/21) on [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles)
-  (5 days ago)
-- [Test PR commands](https://github.com/milanmlft/jupytextR/pull/32) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
-- [Fix copy-pasta typo; use correct repo name](https://github.com/SAFEHR-data/omop-bundles/pull/15) on [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles)
+- [Test PR commands](https://github.com/milanmlft/jupytextR/pull/32) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (2 weeks ago)
-- [Avoid long code chunk outputs for Statistics episode](https://github.com/UCL-ARC/r-amr-epidemiology/pull/29) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (3 weeks ago)
-- [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/48) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+- [Fix copy-pasta typo; use correct repo name](https://github.com/SAFEHR-data/omop-bundles/pull/15) on [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles)
   (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [r-devel/r-svn](https://github.com/r-devel/r-svn) - Mirror of the R svn with CI for testing patches
+- [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
+  (today)
+- [rstudio/bslib](https://github.com/rstudio/bslib) - Tools for theming Shiny and R Markdown via Bootstrap 3, 4, or 5.
+  (5 days ago)
+- [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux!
   (1 week ago)
+- [r-devel/r-svn](https://github.com/r-devel/r-svn) - Mirror of the R svn with CI for testing patches
+  (2 weeks ago)
 - [ThinkR-open/golem](https://github.com/ThinkR-open/golem) - A Framework for Building Robust Shiny Apps 
-  (3 weeks ago)
-- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-  (1 month ago)
-- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Forked from symbols-outline.nvim. 
-  (1 month ago)
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
   (1 month ago)
