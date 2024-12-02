@@ -23,32 +23,34 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
+  (3 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 weeks ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (1 month ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 month ago)
-- [SAFEHR-data/omop-bundles](https://github.com/SAFEHR-data/omop-bundles) - R package to provide access to OMOP bundles
   (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Avoid partial name matching](https://github.com/ropensci/allcontributors/pull/51) on [ropensci/allcontributors](https://github.com/ropensci/allcontributors)
+  (3 days ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/52) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Update 24 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/36) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Update Workflows to Version 0.16.9](https://github.com/UCL-ARC/r-amr-epidemiology/pull/35) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 month ago)
 - [Update Workflows to Version 0.16.9](https://github.com/UCL/ClinicianCoders/pull/51) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 month ago)
-- [Sync with Carpentries](https://github.com/LearnToDiscover/sandpaper/pull/114) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
+  (3 days ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
   (1 month ago)
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
@@ -56,6 +58,4 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
   (1 month ago)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
-  (1 month ago)
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
   (1 month ago)
