@@ -23,34 +23,34 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (3 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
+- [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
+  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 weeks ago)
+  (3 weeks ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
   (1 month ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 8 packages](https://github.com/UCL/ClinicianCoders/pull/53) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 13 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/37) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Avoid partial name matching](https://github.com/ropensci/allcontributors/pull/51) on [ropensci/allcontributors](https://github.com/ropensci/allcontributors)
-  (3 days ago)
+  (1 week ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/52) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 weeks ago)
-- [Update 24 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/36) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (3 weeks ago)
-- [Update Workflows to Version 0.16.9](https://github.com/UCL-ARC/r-amr-epidemiology/pull/35) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 month ago)
-- [Update Workflows to Version 0.16.9](https://github.com/UCL/ClinicianCoders/pull/51) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+- [Update 24 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/36) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 month ago)
 
 #### ⭐ Recent Stars
 
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
-  (3 days ago)
+  (1 week ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
   (1 month ago)
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
