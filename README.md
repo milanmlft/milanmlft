@@ -23,25 +23,25 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/AdventOfCode2024](https://github.com/milanmlft/AdventOfCode2024) - My solutions for Advent of Code 2024
-  (5 days ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (6 days ago)
-- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
+- [milanmlft/AdventOfCode2024](https://github.com/milanmlft/AdventOfCode2024) - My solutions for Advent of Code 2024
   (1 week ago)
-- [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
+- [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (2 weeks ago)
+- [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
+  (3 weeks ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 weeks ago)
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update 8 packages](https://github.com/UCL/ClinicianCoders/pull/53) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
-- [Update 13 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/37) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 week ago)
-- [Avoid partial name matching](https://github.com/ropensci/allcontributors/pull/51) on [ropensci/allcontributors](https://github.com/ropensci/allcontributors)
   (2 weeks ago)
+- [Update 13 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/37) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (2 weeks ago)
+- [Avoid partial name matching](https://github.com/ropensci/allcontributors/pull/51) on [ropensci/allcontributors](https://github.com/ropensci/allcontributors)
+  (3 weeks ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/52) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 month ago)
 - [Update 24 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/36) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
@@ -50,12 +50,12 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
-  (2 weeks ago)
+  (3 weeks ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
   (1 month ago)
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
   (1 month ago)
 - [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
-  (1 month ago)
+  (2 months ago)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
-  (1 month ago)
+  (2 months ago)
