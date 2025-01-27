@@ -26,36 +26,36 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
   (4 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
-- [milanmlft/AdventOfCode2024](https://github.com/milanmlft/AdventOfCode2024) - My solutions for Advent of Code 2024
-  (1 week ago)
-- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
   (2 weeks ago)
+- [milanmlft/AdventOfCode2024](https://github.com/milanmlft/AdventOfCode2024) - My solutions for Advent of Code 2024
+  (2 weeks ago)
+- [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
+  (3 weeks ago)
 - [UCL-ARC/coding-standards](https://github.com/UCL-ARC/coding-standards) - ARC&#39;s recommended coding standards
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Prepare for `0.3.0` release](https://github.com/SAFEHR-data/omopcat/pull/126) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
+  (4 days ago)
+- [Move selected concepts to top of table when selecting a bundle](https://github.com/SAFEHR-data/omopcat/pull/124) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
+  (4 days ago)
+- [fix: Keep rows selected when date range changes](https://github.com/SAFEHR-data/omopcat/pull/123) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
+  (5 days ago)
+- [fix: Keep `value_as_concept_id` in the summary stats table](https://github.com/SAFEHR-data/omopcat/pull/122) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
+  (5 days ago)
 - [Update 16 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/38) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 week ago)
-- [Update 8 packages](https://github.com/UCL/ClinicianCoders/pull/53) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 month ago)
-- [Update 13 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/37) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 month ago)
-- [Avoid partial name matching](https://github.com/ropensci/allcontributors/pull/51) on [ropensci/allcontributors](https://github.com/ropensci/allcontributors)
-  (1 month ago)
-- [fix: Use better low-frequency replacement values](https://github.com/SAFEHR-data/omopcat/pull/115) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
-  (1 month ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
   (1 month ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-  (2 months ago)
+  (3 months ago)
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
-  (2 months ago)
+  (3 months ago)
 - [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
-  (2 months ago)
+  (3 months ago)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
   (3 months ago)
