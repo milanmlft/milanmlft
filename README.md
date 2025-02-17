@@ -24,9 +24,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (3 days ago)
 - [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
-  (2 weeks ago)
+  (3 weeks ago)
 - [milanmlft/AdventOfCode2024](https://github.com/milanmlft/AdventOfCode2024) - My solutions for Advent of Code 2024
   (1 month ago)
 - [LearnToDiscover/case-study-antibodies](https://github.com/LearnToDiscover/case-study-antibodies) - Materials for the Antibodies case study
@@ -37,15 +37,15 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/54) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Update 27 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/46) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
+  (1 week ago)
 - [Configure deployments with `prefect.yaml`](https://github.com/stefpiatek/prefect-docker-poc/pull/1) on [stefpiatek/prefect-docker-poc](https://github.com/stefpiatek/prefect-docker-poc)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Prepare for `0.3.0` release](https://github.com/SAFEHR-data/omopcat/pull/126) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Move selected concepts to top of table when selecting a bundle](https://github.com/SAFEHR-data/omopcat/pull/124) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -58,4 +58,4 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
   (3 months ago)
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
-  (3 months ago)
+  (4 months ago)
