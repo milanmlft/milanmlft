@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (3 days ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
-  (3 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+- [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
   (4 days ago)
-- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (6 days ago)
-- [milanmlft/goapi](https://github.com/milanmlft/goapi) - A simple REST API written in Go
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (1 week ago)
+- [milanmlft/todo](https://github.com/milanmlft/todo)
+  (1 week ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/55) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 21 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/48) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Update renovate config](https://github.com/milanmlft/todo/pull/18) on [milanmlft/todo](https://github.com/milanmlft/todo)
-  (3 days ago)
+  (1 week ago)
 - [Add CI and precommit](https://github.com/milanmlft/talks/pull/3) on [milanmlft/talks](https://github.com/milanmlft/talks)
-  (3 days ago)
+  (1 week ago)
 - [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/54) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 weeks ago)
-- [Update 27 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/46) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (3 weeks ago)
-- [Configure deployments with `prefect.yaml`](https://github.com/stefpiatek/prefect-docker-poc/pull/1) on [stefpiatek/prefect-docker-poc](https://github.com/stefpiatek/prefect-docker-poc)
   (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
   (6 days ago)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+  (1 week ago)
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
   (3 months ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
   (4 months ago)
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
-  (4 months ago)
-- [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
   (4 months ago)
