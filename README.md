@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (4 days ago)
-- [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
   (1 week ago)
+- [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
+  (2 weeks ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (2 weeks ago)
+  (3 weeks ago)
 - [milanmlft/talks](https://github.com/milanmlft/talks)
-  (2 weeks ago)
+  (3 weeks ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Replace multi-trust logistic model with something more sensible](https://github.com/UCL-ARC/r-amr-epidemiology/pull/55) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/55) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
+  (2 weeks ago)
 - [Update 21 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/48) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 week ago)
+  (2 weeks ago)
 - [Update renovate config](https://github.com/milanmlft/todo/pull/18) on [milanmlft/todo](https://github.com/milanmlft/todo)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Add CI and precommit](https://github.com/milanmlft/talks/pull/3) on [milanmlft/talks](https://github.com/milanmlft/talks)
-  (2 weeks ago)
-- [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/54) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 month ago)
+  (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-  (1 week ago)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
   (2 weeks ago)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+  (3 weeks ago)
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
   (3 months ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-  (4 months ago)
+  (5 months ago)
 - [rstudio/shiny](https://github.com/rstudio/shiny) - Easy interactive web applications with R
-  (4 months ago)
+  (5 months ago)
