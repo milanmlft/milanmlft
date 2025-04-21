@@ -24,11 +24,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/talks](https://github.com/milanmlft/talks)
-  (1 week ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
-- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
   (2 weeks ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (2 weeks ago)
+- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
+  (3 weeks ago)
 - [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
   (1 month ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
@@ -37,11 +37,11 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 🔨 My Recent Pull Requests
 
 - [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/56) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
+  (2 weeks ago)
 - [Update 25 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/60) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 week ago)
+  (2 weeks ago)
 - [Replace multi-trust logistic model with something more sensible](https://github.com/UCL-ARC/r-amr-epidemiology/pull/55) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (3 weeks ago)
+  (1 month ago)
 - [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/55) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (1 month ago)
 - [Update 21 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/48) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
@@ -50,9 +50,9 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### ⭐ Recent Stars
 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-  (2 weeks ago)
+  (3 weeks ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-  (2 weeks ago)
+  (3 weeks ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
   (1 month ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
