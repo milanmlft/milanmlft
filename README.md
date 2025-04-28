@@ -23,12 +23,12 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/talks](https://github.com/milanmlft/talks)
-  (2 weeks ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 weeks ago)
-- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
+  (6 days ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
   (3 weeks ago)
+- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
+  (4 weeks ago)
 - [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
   (1 month ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
@@ -36,26 +36,26 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [NI edition updates](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/1) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (1 day ago)
+- [NI edition updates](https://github.com/UCL-ARC/r-amr-epidemiology/pull/62) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (1 day ago)
 - [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/56) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Update 25 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/60) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (2 weeks ago)
+  (3 weeks ago)
 - [Replace multi-trust logistic model with something more sensible](https://github.com/UCL-ARC/r-amr-epidemiology/pull/55) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 month ago)
-- [Update 18 packages](https://github.com/UCL/ClinicianCoders/pull/55) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 month ago)
-- [Update 21 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/48) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 month ago)
 
 #### ⭐ Recent Stars
 
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-  (3 weeks ago)
+  (1 month ago)
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-  (3 weeks ago)
+  (1 month ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
   (1 month ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-  (1 month ago)
+  (2 months ago)
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
-  (4 months ago)
+  (5 months ago)
