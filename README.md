@@ -24,28 +24,28 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 week ago)
 - [milanmlft/talks](https://github.com/milanmlft/talks)
-  (3 weeks ago)
-- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
   (4 weeks ago)
+- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
+  (1 month ago)
 - [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
-  (1 month ago)
+  (2 months ago)
 - [milanmlft/todo](https://github.com/milanmlft/todo)
-  (1 month ago)
+  (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [NI edition updates](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/1) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (1 day ago)
-- [NI edition updates](https://github.com/UCL-ARC/r-amr-epidemiology/pull/62) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 day ago)
-- [Update 16 packages](https://github.com/UCL/ClinicianCoders/pull/56) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 weeks ago)
-- [Update 25 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/60) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (3 weeks ago)
-- [Replace multi-trust logistic model with something more sensible](https://github.com/UCL-ARC/r-amr-epidemiology/pull/55) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 month ago)
+- [Fix UNESCO quote markdown syntax](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/4) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (3 days ago)
+- [SQL episode fixes](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/3) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (4 days ago)
+- [Sync with upstream](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/2) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (5 days ago)
+- [Quarto material fixes](https://github.com/UCL-ARC/r-amr-epidemiology/pull/64) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (5 days ago)
+- [Fix link to carpentries logo](https://github.com/UCL-ARC/r-amr-epidemiology/pull/63) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -54,7 +54,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
   (1 month ago)
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-  (1 month ago)
+  (2 months ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
   (2 months ago)
 - [ropensci/allcontributors](https://github.com/ropensci/allcontributors) - all-contributions as an R package
