@@ -23,29 +23,29 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex)
+  (5 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (2 weeks ago)
 - [milanmlft/talks](https://github.com/milanmlft/talks)
-  (4 weeks ago)
+  (1 month ago)
 - [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
   (1 month ago)
 - [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
   (2 months ago)
-- [milanmlft/todo](https://github.com/milanmlft/todo)
-  (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Fix UNESCO quote markdown syntax](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/4) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (3 days ago)
-- [SQL episode fixes](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/3) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (4 days ago)
-- [Sync with upstream](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/2) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (5 days ago)
-- [Quarto material fixes](https://github.com/UCL-ARC/r-amr-epidemiology/pull/64) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (5 days ago)
-- [Fix link to carpentries logo](https://github.com/UCL-ARC/r-amr-epidemiology/pull/63) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (5 days ago)
+- [Sync forks](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/6) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (6 days ago)
+- [Fix UNESCO quote](https://github.com/UCL-ARC/r-amr-epidemiology/pull/68) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
+- [Update 21 packages](https://github.com/UCL/ClinicianCoders/pull/57) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 12 packages](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/5) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (6 days ago)
+- [Update 32 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/67) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 
 #### ⭐ Recent Stars
 
