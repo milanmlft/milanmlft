@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
+  (1 day ago)
 - [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex)
-  (1 week ago)
+  (2 weeks ago)
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (1 month ago)
 - [milanmlft/talks](https://github.com/milanmlft/talks)
   (1 month ago)
 - [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
   (1 month ago)
-- [milanmlft/k8s-with-terraform](https://github.com/milanmlft/k8s-with-terraform) - Deploying Kubernetes with Terraform
-  (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
 - [Update Workflows to Version 0.16.12](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/7) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (6 days ago)
+  (1 week ago)
 - [Update Workflows to Version 0.16.12](https://github.com/UCL-ARC/r-amr-epidemiology/pull/69) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
+  (1 week ago)
 - [Update Workflows to Version 0.16.12](https://github.com/UCL/ClinicianCoders/pull/58) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Sync forks](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/6) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (1 week ago)
+  (2 weeks ago)
 - [Fix UNESCO quote](https://github.com/UCL-ARC/r-amr-epidemiology/pull/68) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 week ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines
-  (4 days ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-  (1 month ago)
-- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-  (1 month ago)
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-  (2 months ago)
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-  (2 months ago)
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+  (3 days ago)
+- [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) - Tmux Sessionizer: A tool for opening git repositories as tmux sessions
+  (3 days ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+  (5 days ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
+  (1 week ago)
+- [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
+  (1 week ago)
