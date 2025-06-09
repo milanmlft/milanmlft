@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
+  (1 week ago)
 - [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
-  (4 days ago)
+  (1 week ago)
 - [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex)
-  (3 weeks ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
   (1 month ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (2 months ago)
 - [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
   (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/8) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
+  (6 days ago)
+- [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/59) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/70) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Add apache 2.0 license](https://github.com/uclh-criu/crdm-tools/pull/37) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (6 days ago)
+  (1 week ago)
 - [Attempt to speed up docker builds](https://github.com/uclh-criu/crdm-tools/pull/36) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (6 days ago)
-- [Update Workflows to Version 0.16.12](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/7) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (2 weeks ago)
-- [Update Workflows to Version 0.16.12](https://github.com/UCL-ARC/r-amr-epidemiology/pull/69) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (2 weeks ago)
-- [Update Workflows to Version 0.16.12](https://github.com/UCL/ClinicianCoders/pull/58) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (2 weeks ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-  (6 days ago)
+  (1 week ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-  (6 days ago)
+  (1 week ago)
 - [eddelbuettel/r2u](https://github.com/eddelbuettel/r2u) - CRAN as Ubuntu Binaries
-  (1 week ago)
+  (2 weeks ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-  (1 week ago)
+  (2 weeks ago)
 - [jrmoulton/tmux-sessionizer](https://github.com/jrmoulton/tmux-sessionizer) - Tmux Sessionizer: A tool for opening git repositories as tmux sessions
-  (1 week ago)
+  (2 weeks ago)
