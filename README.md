@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
-- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (5 days ago)
+- [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept) - omopcept : an R package to access OMOP conCEPTs (no cons!) and flexible tidyverse compatible R functions for querying and visualising.
   (1 week ago)
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (2 weeks ago)
 - [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex)
   (1 month ago)
 - [milanmlft/talks](https://github.com/milanmlft/talks)
   (2 months ago)
-- [milanmlft/GoLander](https://github.com/milanmlft/GoLander) - Lunar Lander in Go
-  (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove ggplot2 as a hard dependency](https://github.com/SAFEHR-data/omopcept/pull/9) on [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept)
+  (1 week ago)
 - [[ai] Add collision detection and randomise the terrain](https://github.com/milanmlft/GoLander/pull/2) on [milanmlft/GoLander](https://github.com/milanmlft/GoLander)
-  (4 days ago)
+  (1 week ago)
 - [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/8) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (1 week ago)
+  (2 weeks ago)
 - [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/59) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
+  (2 weeks ago)
 - [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/70) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (1 week ago)
-- [Add apache 2.0 license](https://github.com/uclh-criu/crdm-tools/pull/37) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
   (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (1 week ago)
+  (2 weeks ago)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-  (2 weeks ago)
+  (3 weeks ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
-  (2 weeks ago)
+  (3 weeks ago)
 - [eddelbuettel/r2u](https://github.com/eddelbuettel/r2u) - CRAN as Ubuntu Binaries
-  (3 weeks ago)
+  (4 weeks ago)
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-  (3 weeks ago)
+  (1 month ago)
