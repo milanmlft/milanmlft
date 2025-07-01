@@ -24,7 +24,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+  (today)
 - [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept) - omopcept : an R package to access OMOP conCEPTs (no cons!) and flexible tidyverse compatible R functions for querying and visualising.
   (2 weeks ago)
 - [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
@@ -36,16 +36,16 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 12 packages](https://github.com/UCL/ClinicianCoders/pull/60) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (today)
+- [Update 16 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/71) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (today)
 - [Remove ggplot2 as a hard dependency](https://github.com/SAFEHR-data/omopcept/pull/9) on [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept)
   (2 weeks ago)
 - [[ai] Add collision detection and randomise the terrain](https://github.com/milanmlft/GoLander/pull/2) on [milanmlft/GoLander](https://github.com/milanmlft/GoLander)
   (2 weeks ago)
 - [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/8) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (3 weeks ago)
-- [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/59) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (3 weeks ago)
-- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/70) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (3 weeks ago)
+  (4 weeks ago)
 
 #### ⭐ Recent Stars
 
