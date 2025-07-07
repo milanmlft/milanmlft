@@ -23,34 +23,34 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [milanmlft/enum](https://github.com/milanmlft/enum) - Enums in R
+  (1 day ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (today)
+  (5 days ago)
 - [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept) - omopcept : an R package to access OMOP conCEPTs (no cons!) and flexible tidyverse compatible R functions for querying and visualising.
-  (2 weeks ago)
-- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
   (3 weeks ago)
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (4 weeks ago)
 - [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex)
-  (1 month ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
   (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Implement Enum class and basic methods](https://github.com/milanmlft/enum/pull/3) on [milanmlft/enum](https://github.com/milanmlft/enum)
+  (1 day ago)
 - [Update 12 packages](https://github.com/UCL/ClinicianCoders/pull/60) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (today)
+  (6 days ago)
 - [Update 16 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/71) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (today)
+  (6 days ago)
 - [Remove ggplot2 as a hard dependency](https://github.com/SAFEHR-data/omopcept/pull/9) on [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept)
-  (2 weeks ago)
+  (3 weeks ago)
 - [[ai] Add collision detection and randomise the terrain](https://github.com/milanmlft/GoLander/pull/2) on [milanmlft/GoLander](https://github.com/milanmlft/GoLander)
-  (2 weeks ago)
-- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology-ni/pull/8) on [UCL-ARC/r-amr-epidemiology-ni](https://github.com/UCL-ARC/r-amr-epidemiology-ni)
-  (4 weeks ago)
+  (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (3 weeks ago)
+  (4 weeks ago)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
   (1 month ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
