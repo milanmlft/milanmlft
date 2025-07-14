@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/enum](https://github.com/milanmlft/enum) - Enums in R
-  (1 day ago)
+  (2 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (2 days ago)
+- [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL) - PIXL Image eXtraction Laboratory
   (5 days ago)
 - [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept) - omopcept : an R package to access OMOP conCEPTs (no cons!) and flexible tidyverse compatible R functions for querying and visualising.
-  (3 weeks ago)
-- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
   (4 weeks ago)
-- [milanmlft/actionsreprex](https://github.com/milanmlft/actionsreprex)
-  (2 months ago)
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [ci: Pre-commit manages its own dependencies](https://github.com/milanmlft/enum/pull/4) on [milanmlft/enum](https://github.com/milanmlft/enum)
+  (2 days ago)
+- [Update pre-commit hooks and fix linter issues](https://github.com/SAFEHR-data/PIXL/pull/609) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
+  (5 days ago)
+- [Add TRE API uploader](https://github.com/SAFEHR-data/PIXL/pull/608) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
+  (6 days ago)
+- [Add SFTP uploader](https://github.com/SAFEHR-data/PIXL/pull/607) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
+  (6 days ago)
 - [Implement Enum class and basic methods](https://github.com/milanmlft/enum/pull/3) on [milanmlft/enum](https://github.com/milanmlft/enum)
-  (1 day ago)
-- [Update 12 packages](https://github.com/UCL/ClinicianCoders/pull/60) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
-- [Update 16 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/71) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
-- [Remove ggplot2 as a hard dependency](https://github.com/SAFEHR-data/omopcept/pull/9) on [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept)
-  (3 weeks ago)
-- [[ai] Add collision detection and randomise the terrain](https://github.com/milanmlft/GoLander/pull/2) on [milanmlft/GoLander](https://github.com/milanmlft/GoLander)
-  (3 weeks ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) - pre-commit hooks for R projects
+  (2 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (4 weeks ago)
+  (1 month ago)
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
   (1 month ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
   (1 month ago)
 - [eddelbuettel/r2u](https://github.com/eddelbuettel/r2u) - CRAN as Ubuntu Binaries
-  (1 month ago)
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
   (1 month ago)
