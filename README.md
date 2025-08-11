@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [SAFEHR-data/omop-carpentries](https://github.com/SAFEHR-data/omop-carpentries) - Lesson on OMOP
-  (3 weeks ago)
-- [milanmlft/enum](https://github.com/milanmlft/enum) - Enums in R
-  (3 weeks ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 weeks ago)
+  (6 days ago)
+- [SAFEHR-data/omop-carpentries](https://github.com/SAFEHR-data/omop-carpentries) - Lesson on OMOP
+  (4 weeks ago)
+- [milanmlft/enum](https://github.com/milanmlft/enum) - Enums in R
+  (1 month ago)
 - [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL) - PIXL Image eXtraction Laboratory
-  (3 weeks ago)
+  (1 month ago)
 - [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept) - omopcept : an R package to access OMOP conCEPTs (no cons!) and flexible tidyverse compatible R functions for querying and visualising.
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/61) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 17 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/72) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Checkout branch by default](https://github.com/razekmh/gh-develop-with-prefix/pull/6) on [razekmh/gh-develop-with-prefix](https://github.com/razekmh/gh-develop-with-prefix)
-  (2 weeks ago)
+  (3 weeks ago)
 - [ci: Pre-commit manages its own dependencies](https://github.com/milanmlft/enum/pull/4) on [milanmlft/enum](https://github.com/milanmlft/enum)
-  (3 weeks ago)
+  (1 month ago)
 - [Update pre-commit hooks and fix linter issues](https://github.com/SAFEHR-data/PIXL/pull/609) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
-  (3 weeks ago)
-- [Add TRE API uploader](https://github.com/SAFEHR-data/PIXL/pull/608) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
-  (3 weeks ago)
-- [Add SFTP uploader](https://github.com/SAFEHR-data/PIXL/pull/607) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
-  (3 weeks ago)
+  (1 month ago)
 
 #### ⭐ Recent Stars
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  (1 week ago)
 - [razekmh/gh-develop-with-prefix](https://github.com/razekmh/gh-develop-with-prefix)
-  (2 weeks ago)
-- [lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) - pre-commit hooks for R projects
   (3 weeks ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
+- [lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) - pre-commit hooks for R projects
   (1 month ago)
-- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
   (2 months ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
   (2 months ago)
