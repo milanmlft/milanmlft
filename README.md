@@ -24,38 +24,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (6 days ago)
-- [SAFEHR-data/omop-carpentries](https://github.com/SAFEHR-data/omop-carpentries) - Lesson on OMOP
-  (4 weeks ago)
+  (3 days ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+  (1 month ago)
+- [milanmlft/toy-gha-merge-strategy](https://github.com/milanmlft/toy-gha-merge-strategy)
+  (1 month ago)
+- [ucl-arc-tre/aws-usage-alerts](https://github.com/ucl-arc-tre/aws-usage-alerts) - Real-time usage alerts for AWS services
+  (1 month ago)
 - [milanmlft/enum](https://github.com/milanmlft/enum) - Enums in R
-  (1 month ago)
-- [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL) - PIXL Image eXtraction Laboratory
-  (1 month ago)
-- [SAFEHR-data/omopcept](https://github.com/SAFEHR-data/omopcept) - omopcept : an R package to access OMOP conCEPTs (no cons!) and flexible tidyverse compatible R functions for querying and visualising.
-  (1 month ago)
+  (2 months ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update 10 packages](https://github.com/UCL/ClinicianCoders/pull/61) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
-- [Update 17 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/72) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
-- [Checkout branch by default](https://github.com/razekmh/gh-develop-with-prefix/pull/6) on [razekmh/gh-develop-with-prefix](https://github.com/razekmh/gh-develop-with-prefix)
-  (3 weeks ago)
-- [ci: Pre-commit manages its own dependencies](https://github.com/milanmlft/enum/pull/4) on [milanmlft/enum](https://github.com/milanmlft/enum)
-  (1 month ago)
-- [Update pre-commit hooks and fix linter issues](https://github.com/SAFEHR-data/PIXL/pull/609) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
-  (1 month ago)
+- [Add pod-destroying surprise ](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes/pull/29) on [rosalindfranklininstitute/rsecon25-intro-to-kubernetes](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes)
+  (4 days ago)
+- [Add profvis profiler for R](https://github.com/sig-rpc/sig-rpc.github.io/pull/48) on [sig-rpc/sig-rpc.github.io](https://github.com/sig-rpc/sig-rpc.github.io)
+  (5 days ago)
+- [Enhance explanation of vectorisation vs apply functions](https://github.com/sig-rpc/sig-rpc.github.io/pull/35) on [sig-rpc/sig-rpc.github.io](https://github.com/sig-rpc/sig-rpc.github.io)
+  (5 days ago)
+- [Update 11 packages](https://github.com/UCL/ClinicianCoders/pull/62) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (1 week ago)
+- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/74) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
+  (3 days ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (1 week ago)
-- [razekmh/gh-develop-with-prefix](https://github.com/razekmh/gh-develop-with-prefix)
+- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
   (3 weeks ago)
-- [lorenzwalthert/precommit](https://github.com/lorenzwalthert/precommit) - pre-commit hooks for R projects
-  (1 month ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-  (2 months ago)
-- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-  (2 months ago)
+- [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers
+  (3 weeks ago)
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+  (4 weeks ago)
