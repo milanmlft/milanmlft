@@ -24,35 +24,35 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 #### 👷 Explore My Current Projects
 
 - [sig-rpc/sig-rpc.github.io](https://github.com/sig-rpc/sig-rpc.github.io) - Reasonable Performance Computing&#39;s website
-  (1 day ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (5 days ago)
-- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
-  (6 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (1 week ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (1 week ago)
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (1 week ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (2 weeks ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update 20 packages](https://github.com/UCL/ClinicianCoders/pull/63) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 25 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/77) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Pin omop_es version in Prefect flows](https://github.com/uclh-criu/crdm-tools/pull/58) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (5 days ago)
+  (1 week ago)
 - [Dont cache git pull and improve renv caching](https://github.com/uclh-criu/crdm-tools/pull/57) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (1 week ago)
+  (2 weeks ago)
 - [Get real project to run through Prefect](https://github.com/uclh-criu/crdm-tools/pull/56) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (1 week ago)
-- [Add pod-destroying surprise ](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes/pull/29) on [rosalindfranklininstitute/rsecon25-intro-to-kubernetes](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes)
-  (3 weeks ago)
-- [Add profvis profiler for R](https://github.com/sig-rpc/sig-rpc.github.io/pull/48) on [sig-rpc/sig-rpc.github.io](https://github.com/sig-rpc/sig-rpc.github.io)
-  (3 weeks ago)
+  (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-  (4 days ago)
+  (1 week ago)
 - [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
-  (3 weeks ago)
+  (1 month ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (1 month ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
