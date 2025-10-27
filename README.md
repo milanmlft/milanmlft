@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [sig-rpc/sig-rpc.github.io](https://github.com/sig-rpc/sig-rpc.github.io) - Reasonable Performance Computing&#39;s website
-  (1 week ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (3 days ago)
+- [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
+  (3 days ago)
+- [codeminer-io/.github](https://github.com/codeminer-io/.github) - Default files for all repositories and organisation landing page
   (1 week ago)
-- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+- [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
   (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (2 weeks ago)
-- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (1 month ago)
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update 20 packages](https://github.com/UCL/ClinicianCoders/pull/63) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
-- [Update 25 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/77) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
-- [Pin omop_es version in Prefect flows](https://github.com/uclh-criu/crdm-tools/pull/58) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (1 week ago)
-- [Dont cache git pull and improve renv caching](https://github.com/uclh-criu/crdm-tools/pull/57) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (2 weeks ago)
-- [Get real project to run through Prefect](https://github.com/uclh-criu/crdm-tools/pull/56) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (2 weeks ago)
+- [Remove renv](https://github.com/codeminer-io/codeminer/pull/36) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (3 days ago)
+- [Update installation instructions](https://github.com/milanmlft/jupytextR/pull/42) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+  (3 days ago)
+- [Update R-CMD-check workflow](https://github.com/milanmlft/jupytextR/pull/41) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+  (3 days ago)
+- [Improve CI workflows](https://github.com/codeminer-io/codeminer/pull/33) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (4 days ago)
+- [Add formatter and linter to CI](https://github.com/codeminer-io/codeminer/pull/30) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-  (1 week ago)
+  (3 weeks ago)
 - [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
   (1 month ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (1 month ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
-  (1 month ago)
+  (2 months ago)
 - [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers
-  (1 month ago)
+  (2 months ago)
