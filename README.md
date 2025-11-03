@@ -23,38 +23,38 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (3 days ago)
 - [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
   (3 days ago)
-- [codeminer-io/.github](https://github.com/codeminer-io/.github) - Default files for all repositories and organisation landing page
-  (1 week ago)
-- [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
-  (1 week ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
+- [codeminer-io/.github](https://github.com/codeminer-io/.github) - Default files for all repositories and organisation landing page
+  (2 weeks ago)
+- [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Redesign database and allow adding lookup and mapping tables](https://github.com/codeminer-io/codeminer/pull/43) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (6 days ago)
 - [Remove renv](https://github.com/codeminer-io/codeminer/pull/36) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (3 days ago)
+  (1 week ago)
 - [Update installation instructions](https://github.com/milanmlft/jupytextR/pull/42) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (3 days ago)
+  (1 week ago)
 - [Update R-CMD-check workflow](https://github.com/milanmlft/jupytextR/pull/41) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (3 days ago)
+  (1 week ago)
 - [Improve CI workflows](https://github.com/codeminer-io/codeminer/pull/33) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (4 days ago)
-- [Add formatter and linter to CI](https://github.com/codeminer-io/codeminer/pull/30) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (5 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-  (3 weeks ago)
+  (1 month ago)
 - [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
   (1 month ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-  (1 month ago)
+  (2 months ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
   (2 months ago)
 - [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers
