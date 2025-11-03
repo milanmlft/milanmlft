@@ -36,6 +36,8 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 🔨 My Recent Pull Requests
 
+- [Remove myself as reviewer](https://github.com/LearnToDiscover/sandpaper/pull/137) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
+  (today)
 - [Redesign database and allow adding lookup and mapping tables](https://github.com/codeminer-io/codeminer/pull/43) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
   (6 days ago)
 - [Remove renv](https://github.com/codeminer-io/codeminer/pull/36) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
@@ -43,8 +45,6 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [Update installation instructions](https://github.com/milanmlft/jupytextR/pull/42) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
   (1 week ago)
 - [Update R-CMD-check workflow](https://github.com/milanmlft/jupytextR/pull/41) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (1 week ago)
-- [Improve CI workflows](https://github.com/codeminer-io/codeminer/pull/33) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
   (1 week ago)
 
 #### ⭐ Recent Stars
