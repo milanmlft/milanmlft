@@ -23,28 +23,28 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
-  (3 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+  (6 days ago)
 - [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
   (1 week ago)
-- [codeminer-io/.github](https://github.com/codeminer-io/.github) - Default files for all repositories and organisation landing page
-  (2 weeks ago)
-- [UCL-ARC/carpentries-quarto](https://github.com/UCL-ARC/carpentries-quarto) - Carpentries lessons in Quarto
-  (2 weeks ago)
+- [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices) - ARC&#39;s recommended coding standards
+  (1 week ago)
+- [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
+  (1 week ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Remove myself as reviewer](https://github.com/LearnToDiscover/sandpaper/pull/137) on [LearnToDiscover/sandpaper](https://github.com/LearnToDiscover/sandpaper)
-  (today)
-- [Redesign database and allow adding lookup and mapping tables](https://github.com/codeminer-io/codeminer/pull/43) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+- [Refactor codeminer to use new database](https://github.com/codeminer-io/codeminer/pull/48) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (4 days ago)
+- [Update 7 packages](https://github.com/UCL/ClinicianCoders/pull/64) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
   (6 days ago)
-- [Remove renv](https://github.com/codeminer-io/codeminer/pull/36) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/78) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
+- [Add guidance on packaging, releasing and versioning](https://github.com/UCL-ARC/research-software-practices/pull/57) on [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices)
   (1 week ago)
-- [Update installation instructions](https://github.com/milanmlft/jupytextR/pull/42) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
-  (1 week ago)
-- [Update R-CMD-check workflow](https://github.com/milanmlft/jupytextR/pull/41) on [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR)
+- [Fix webpage link in CONTRIBUTING.md](https://github.com/UCL-ARC/research-software-practices/pull/56) on [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices)
   (1 week ago)
 
 #### ⭐ Recent Stars
