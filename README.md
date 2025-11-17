@@ -23,28 +23,28 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (6 days ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 week ago)
-- [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices) - ARC&#39;s recommended coding standards
-  (1 week ago)
+- [rosalindfranklininstitute/rsecon25-intro-to-kubernetes](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes) - Intro to Kubernetes for RSECon25
+  (3 days ago)
 - [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
+  (6 days ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 week ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (1 week ago)
+- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+  (2 weeks ago)
+- [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices) - ARC&#39;s recommended coding standards
+  (2 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Enable adding relationship-type tables to the codeminer database](https://github.com/codeminer-io/codeminer/pull/56) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (3 days ago)
+- [Export metadata getters for the app](https://github.com/codeminer-io/codeminer/pull/51) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (5 days ago)
 - [Refactor codeminer to use new database](https://github.com/codeminer-io/codeminer/pull/48) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (4 days ago)
-- [Update 7 packages](https://github.com/UCL/ClinicianCoders/pull/64) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
-- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/78) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
-- [Add guidance on packaging, releasing and versioning](https://github.com/UCL-ARC/research-software-practices/pull/57) on [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices)
   (1 week ago)
-- [Fix webpage link in CONTRIBUTING.md](https://github.com/UCL-ARC/research-software-practices/pull/56) on [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices)
+- [Update 7 packages](https://github.com/UCL/ClinicianCoders/pull/64) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (1 week ago)
+- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/78) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 week ago)
 
 #### ⭐ Recent Stars
@@ -52,7 +52,7 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
   (1 month ago)
 - [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
-  (1 month ago)
+  (2 months ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (2 months ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
