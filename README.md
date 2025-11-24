@@ -23,28 +23,28 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [rosalindfranklininstitute/rsecon25-intro-to-kubernetes](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes) - Intro to Kubernetes for RSECon25
-  (3 days ago)
 - [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
+  (5 days ago)
+- [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
   (6 days ago)
-- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+- [rosalindfranklininstitute/rsecon25-intro-to-kubernetes](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes) - Intro to Kubernetes for RSECon25
   (1 week ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (2 weeks ago)
 - [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices) - ARC&#39;s recommended coding standards
-  (2 weeks ago)
+  (3 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add Milan and Miguel as co-authors of the package](https://github.com/codeminer-io/codeminer/pull/60) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (6 days ago)
+- [Disable `return_linter`](https://github.com/SAFEHR-data/omopcat/pull/136) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
+  (1 week ago)
+- [Refactor `CHILDREN` to work with new database](https://github.com/codeminer-io/codeminer/pull/58) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+  (1 week ago)
 - [Enable adding relationship-type tables to the codeminer database](https://github.com/codeminer-io/codeminer/pull/56) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (3 days ago)
+  (1 week ago)
 - [Export metadata getters for the app](https://github.com/codeminer-io/codeminer/pull/51) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (5 days ago)
-- [Refactor codeminer to use new database](https://github.com/codeminer-io/codeminer/pull/48) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (1 week ago)
-- [Update 7 packages](https://github.com/UCL/ClinicianCoders/pull/64) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (1 week ago)
-- [Update 14 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/78) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
   (1 week ago)
 
 #### ⭐ Recent Stars
@@ -56,6 +56,6 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (2 months ago)
 - [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
-  (2 months ago)
+  (3 months ago)
 - [TermiT/Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers
-  (2 months ago)
+  (3 months ago)
