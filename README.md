@@ -23,34 +23,34 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
-  (5 days ago)
-- [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat) - Summary of OMOP data and display in a public data catalogue
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
+  (4 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
   (6 days ago)
-- [rosalindfranklininstitute/rsecon25-intro-to-kubernetes](https://github.com/rosalindfranklininstitute/rsecon25-intro-to-kubernetes) - Intro to Kubernetes for RSECon25
-  (1 week ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (6 days ago)
 - [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (2 weeks ago)
-- [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices) - ARC&#39;s recommended coding standards
-  (3 weeks ago)
+  (1 week ago)
+- [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer) - R package for working with clinical codes
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Add Milan and Miguel as co-authors of the package](https://github.com/codeminer-io/codeminer/pull/60) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (6 days ago)
-- [Disable `return_linter`](https://github.com/SAFEHR-data/omopcat/pull/136) on [SAFEHR-data/omopcat](https://github.com/SAFEHR-data/omopcat)
+- [Dockerise the prefect server](https://github.com/uclh-criu/crdm-tools/pull/62) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (4 days ago)
+- [Update docs](https://github.com/uclh-criu/crdm-tools/pull/61) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (4 days ago)
+- [Fix GHA publish job permissions](https://github.com/milanmlft/talks/pull/11) on [milanmlft/talks](https://github.com/milanmlft/talks)
   (1 week ago)
-- [Refactor `CHILDREN` to work with new database](https://github.com/codeminer-io/codeminer/pull/58) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+- [Add License](https://github.com/milanmlft/talks/pull/10) on [milanmlft/talks](https://github.com/milanmlft/talks)
   (1 week ago)
-- [Enable adding relationship-type tables to the codeminer database](https://github.com/codeminer-io/codeminer/pull/56) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
-  (1 week ago)
-- [Export metadata getters for the app](https://github.com/codeminer-io/codeminer/pull/51) on [codeminer-io/codeminer](https://github.com/codeminer-io/codeminer)
+- [Fix R pkgs talk](https://github.com/milanmlft/talks/pull/9) on [milanmlft/talks](https://github.com/milanmlft/talks)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-  (1 month ago)
+  (2 months ago)
 - [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
   (2 months ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
