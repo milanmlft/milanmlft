@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
+- [milanmlft/algorithms](https://github.com/milanmlft/algorithms)
+  (1 day ago)
+- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
+  (1 day ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (3 days ago)
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
+  (5 days ago)
 - [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
-  (4 days ago)
-- [milanmlft/.github](https://github.com/milanmlft/.github) - Default files for all my GitHub repositories
   (5 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (5 days ago)
-- [milanmlft/enum](https://github.com/milanmlft/enum) - Enums in R
-  (5 days ago)
-- [milanmlft/jupytextR](https://github.com/milanmlft/jupytextR) - R wrapper for jupytext
-  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Update docs with note on Prefect storage permissions](https://github.com/uclh-criu/crdm-tools/pull/69) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (3 days ago)
+- [Add Golang talk](https://github.com/milanmlft/talks/pull/14) on [milanmlft/talks](https://github.com/milanmlft/talks)
+  (5 days ago)
+- [Pin `asyncpg` to 0.30.0](https://github.com/uclh-criu/crdm-tools/pull/68) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (5 days ago)
 - [fix: Fetch before checkout during Docker build](https://github.com/uclh-criu/crdm-tools/pull/64) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (4 days ago)
+  (1 week ago)
 - [Move pyproject and uv.lock to root](https://github.com/uclh-criu/crdm-tools/pull/63) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (5 days ago)
-- [fix: Don&#39;t cache pre-commit on CI](https://github.com/milanmlft/enum/pull/14) on [milanmlft/enum](https://github.com/milanmlft/enum)
-  (5 days ago)
-- [Use pre-commit ci](https://github.com/milanmlft/enum/pull/13) on [milanmlft/enum](https://github.com/milanmlft/enum)
-  (5 days ago)
-- [chore: Use `air` for formatting](https://github.com/milanmlft/enum/pull/11) on [milanmlft/enum](https://github.com/milanmlft/enum)
-  (5 days ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update) - Learn how to design large-scale systems. Prep for the system design interview.  An update to the original system-design-primer
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
   (5 days ago)
+- [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update) - Learn how to design large-scale systems. Prep for the system design interview.  An update to the original system-design-primer
+  (1 week ago)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
   (2 months ago)
 - [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
-  (2 months ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (3 months ago)
-- [victrme/Bonjourr](https://github.com/victrme/Bonjourr) - Minimalist &amp; lightweight startpage inspired by iOS
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
   (3 months ago)
