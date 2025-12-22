@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/algorithms](https://github.com/milanmlft/algorithms)
-  (1 day ago)
-- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
-  (1 day ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
-  (3 days ago)
-- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
-  (5 days ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (4 days ago)
 - [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
-  (5 days ago)
+  (6 days ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (1 week ago)
+- [milanmlft/algorithms](https://github.com/milanmlft/algorithms)
+  (1 week ago)
+- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
+  (1 week ago)
 
 #### 🔨 My Recent Pull Requests
 
-- [Update docs with note on Prefect storage permissions](https://github.com/uclh-criu/crdm-tools/pull/69) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (3 days ago)
-- [Add Golang talk](https://github.com/milanmlft/talks/pull/14) on [milanmlft/talks](https://github.com/milanmlft/talks)
+- [Fix hidden domain name in DNS section](https://github.com/ido777/system-design-primer-update/pull/545) on [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update)
   (5 days ago)
-- [Pin `asyncpg` to 0.30.0](https://github.com/uclh-criu/crdm-tools/pull/68) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (5 days ago)
-- [fix: Fetch before checkout during Docker build](https://github.com/uclh-criu/crdm-tools/pull/64) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+- [Add Expert Generalists talk](https://github.com/milanmlft/talks/pull/16) on [milanmlft/talks](https://github.com/milanmlft/talks)
   (1 week ago)
-- [Move pyproject and uv.lock to root](https://github.com/uclh-criu/crdm-tools/pull/63) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+- [Update docs with note on Prefect storage permissions](https://github.com/uclh-criu/crdm-tools/pull/69) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (1 week ago)
+- [Add Golang talk](https://github.com/milanmlft/talks/pull/14) on [milanmlft/talks](https://github.com/milanmlft/talks)
+  (1 week ago)
+- [Pin `asyncpg` to 0.30.0](https://github.com/uclh-criu/crdm-tools/pull/68) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
   (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
+  (2 days ago)
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
+  (3 days ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+  (3 days ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
   (5 days ago)
-- [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update) - Learn how to design large-scale systems. Prep for the system design interview.  An update to the original system-design-primer
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
   (1 week ago)
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-  (2 months ago)
-- [markmacode/obsidian-nightfox](https://github.com/markmacode/obsidian-nightfox) - Nightfox theme for Obsidian
-  (3 months ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-  (3 months ago)
