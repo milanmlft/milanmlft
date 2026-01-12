@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
-  (5 days ago)
 - [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL) - PIXL Image eXtraction Laboratory
-  (1 week ago)
+  (3 days ago)
 - [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (3 days ago)
+- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
   (1 week ago)
 - [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
-  (2 weeks ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
   (3 weeks ago)
+- [milanmlft/talks](https://github.com/milanmlft/talks)
+  (4 weeks ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Add ARC&#39;s Rough Guide to AI-Assisted Coding](https://github.com/UCL-ARC/research-software-practices/pull/60) on [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices)
+  (4 days ago)
+- [Update 20 packages](https://github.com/UCL/ClinicianCoders/pull/65) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
+  (6 days ago)
+- [Update 43 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/79) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
+  (6 days ago)
 - [Bump ruff version](https://github.com/SAFEHR-data/PIXL/pull/617) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
-  (1 week ago)
-- [Fix hidden domain name in DNS section](https://github.com/ido777/system-design-primer-update/pull/545) on [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update)
   (2 weeks ago)
-- [Add Expert Generalists talk](https://github.com/milanmlft/talks/pull/16) on [milanmlft/talks](https://github.com/milanmlft/talks)
-  (3 weeks ago)
-- [Update docs with note on Prefect storage permissions](https://github.com/uclh-criu/crdm-tools/pull/69) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
-  (3 weeks ago)
-- [Add Golang talk](https://github.com/milanmlft/talks/pull/14) on [milanmlft/talks](https://github.com/milanmlft/talks)
+- [Fix hidden domain name in DNS section](https://github.com/ido777/system-design-primer-update/pull/545) on [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update)
   (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-  (2 weeks ago)
-- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
-  (2 weeks ago)
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
-  (2 weeks ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-  (2 weeks ago)
-- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
   (3 weeks ago)
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
+  (3 weeks ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
+  (3 weeks ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
+  (3 weeks ago)
+- [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
+  (1 month ago)
