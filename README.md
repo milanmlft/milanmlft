@@ -23,39 +23,39 @@ This profile page is _heavily_ inspired by @paddyroddy's [profile](https://githu
 
 #### 👷 Explore My Current Projects
 
-- [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL) - PIXL Image eXtraction Laboratory
-  (3 days ago)
-- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
-  (3 days ago)
-- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
+- [milanmlft/swapper](https://github.com/milanmlft/swapper) - Simulate DE Signal By Feature Swapping
   (1 week ago)
-- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Docker container hosting a compatible R environment to run CRDM tools
-  (3 weeks ago)
-- [milanmlft/talks](https://github.com/milanmlft/talks)
-  (4 weeks ago)
+- [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL) - PIXL Image eXtraction Laboratory
+  (1 week ago)
+- [milanmlft/dotfiles](https://github.com/milanmlft/dotfiles) - My dotfiles
+  (1 week ago)
+- [milanmlft/AdventOfCode2025](https://github.com/milanmlft/AdventOfCode2025) - Advent of Code 2025
+  (2 weeks ago)
+- [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools) - Tools to run and deploy CRDM services
+  (1 month ago)
 
 #### 🔨 My Recent Pull Requests
 
+- [Set working directory for CI to root](https://github.com/uclh-criu/crdm-tools/pull/73) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (6 days ago)
+- [Replace GITHUB_PAT with SSH deploy keys in Dockerfile](https://github.com/uclh-criu/crdm-tools/pull/72) on [uclh-criu/crdm-tools](https://github.com/uclh-criu/crdm-tools)
+  (6 days ago)
 - [Add ARC&#39;s Rough Guide to AI-Assisted Coding](https://github.com/UCL-ARC/research-software-practices/pull/60) on [UCL-ARC/research-software-practices](https://github.com/UCL-ARC/research-software-practices)
-  (4 days ago)
+  (1 week ago)
 - [Update 20 packages](https://github.com/UCL/ClinicianCoders/pull/65) on [UCL/ClinicianCoders](https://github.com/UCL/ClinicianCoders)
-  (6 days ago)
+  (1 week ago)
 - [Update 43 packages](https://github.com/UCL-ARC/r-amr-epidemiology/pull/79) on [UCL-ARC/r-amr-epidemiology](https://github.com/UCL-ARC/r-amr-epidemiology)
-  (6 days ago)
-- [Bump ruff version](https://github.com/SAFEHR-data/PIXL/pull/617) on [SAFEHR-data/PIXL](https://github.com/SAFEHR-data/PIXL)
-  (2 weeks ago)
-- [Fix hidden domain name in DNS section](https://github.com/ido777/system-design-primer-update/pull/545) on [ido777/system-design-primer-update](https://github.com/ido777/system-design-primer-update)
-  (3 weeks ago)
+  (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
-  (3 weeks ago)
+  (1 month ago)
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
-  (3 weeks ago)
+  (1 month ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
-  (3 weeks ago)
+  (1 month ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-  (3 weeks ago)
+  (1 month ago)
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
   (1 month ago)
