@@ -38,7 +38,7 @@ jobs:
       - name: Push README to main
         if: ${{ github.event_name == 'push' }} || ${{ steps.commit-count.outputs.count == 0 }}
         # yamllint disable-line rule:line-length
-        uses: stefanzweifel/git-auto-commit-action@28e16e81777b558cc906c8750092100bbb34c5e3 # v7
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
